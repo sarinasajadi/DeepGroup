@@ -1,0 +1,2001 @@
+	u1	u2	u3	u4	u5	u6	u7	u8	u9	u10	item_id	ranking	rating
+0	user42	user3937	user1440	user2849	user1577						item0	2	0
+1	user42	user3937	user1440	user2849	user1577						item1	4	0
+2	user42	user3937	user1440	user2849	user1577						item2	5	0
+3	user42	user3937	user1440	user2849	user1577						item3	6	0
+4	user42	user3937	user1440	user2849	user1577						item4	1	1
+5	user42	user3937	user1440	user2849	user1577						item5	7	0
+6	user42	user3937	user1440	user2849	user1577						item6	8	0
+7	user42	user3937	user1440	user2849	user1577						item7	3	0
+8	user42	user3937	user1440	user2849	user1577						item8	9	0
+9	user42	user3937	user1440	user2849	user1577						item9	10	0
+10	user1487	user2075	user18	user2837	user962	user416	user2169	user1479			item0	2	0
+11	user1487	user2075	user18	user2837	user962	user416	user2169	user1479			item1	5	0
+12	user1487	user2075	user18	user2837	user962	user416	user2169	user1479			item2	6	0
+13	user1487	user2075	user18	user2837	user962	user416	user2169	user1479			item3	1	1
+14	user1487	user2075	user18	user2837	user962	user416	user2169	user1479			item4	3	0
+15	user1487	user2075	user18	user2837	user962	user416	user2169	user1479			item5	4	0
+16	user1487	user2075	user18	user2837	user962	user416	user2169	user1479			item6	7	0
+17	user1487	user2075	user18	user2837	user962	user416	user2169	user1479			item7	8	0
+18	user1487	user2075	user18	user2837	user962	user416	user2169	user1479			item8	9	0
+19	user1487	user2075	user18	user2837	user962	user416	user2169	user1479			item9	10	0
+20	user4841	user801	user1841	user4415	user2176	user4562	user1654	user4470	user950	user4991	item0	4	0
+21	user4841	user801	user1841	user4415	user2176	user4562	user1654	user4470	user950	user4991	item1	7	0
+22	user4841	user801	user1841	user4415	user2176	user4562	user1654	user4470	user950	user4991	item2	8	0
+23	user4841	user801	user1841	user4415	user2176	user4562	user1654	user4470	user950	user4991	item3	2	0
+24	user4841	user801	user1841	user4415	user2176	user4562	user1654	user4470	user950	user4991	item4	5	0
+25	user4841	user801	user1841	user4415	user2176	user4562	user1654	user4470	user950	user4991	item5	3	0
+26	user4841	user801	user1841	user4415	user2176	user4562	user1654	user4470	user950	user4991	item6	9	0
+27	user4841	user801	user1841	user4415	user2176	user4562	user1654	user4470	user950	user4991	item7	10	0
+28	user4841	user801	user1841	user4415	user2176	user4562	user1654	user4470	user950	user4991	item8	6	0
+29	user4841	user801	user1841	user4415	user2176	user4562	user1654	user4470	user950	user4991	item9	1	1
+30	user2174	user3426	user4206								item0	1	1
+31	user2174	user3426	user4206								item1	4	0
+32	user2174	user3426	user4206								item2	5	0
+33	user2174	user3426	user4206								item3	6	0
+34	user2174	user3426	user4206								item4	7	0
+35	user2174	user3426	user4206								item5	8	0
+36	user2174	user3426	user4206								item6	2	0
+37	user2174	user3426	user4206								item7	3	0
+38	user2174	user3426	user4206								item8	9	0
+39	user2174	user3426	user4206								item9	10	0
+40	user3850	user1181	user1581	user654	user359						item0	4	0
+41	user3850	user1181	user1581	user654	user359						item1	1	1
+42	user3850	user1181	user1581	user654	user359						item2	5	0
+43	user3850	user1181	user1581	user654	user359						item3	6	0
+44	user3850	user1181	user1581	user654	user359						item4	7	0
+45	user3850	user1181	user1581	user654	user359						item5	8	0
+46	user3850	user1181	user1581	user654	user359						item6	3	0
+47	user3850	user1181	user1581	user654	user359						item7	9	0
+48	user3850	user1181	user1581	user654	user359						item8	10	0
+49	user3850	user1181	user1581	user654	user359						item9	2	0
+50	user3020	user3061	user336	user4857							item0	2	0
+51	user3020	user3061	user336	user4857							item1	4	0
+52	user3020	user3061	user336	user4857							item2	5	0
+53	user3020	user3061	user336	user4857							item3	6	0
+54	user3020	user3061	user336	user4857							item4	3	0
+55	user3020	user3061	user336	user4857							item5	7	0
+56	user3020	user3061	user336	user4857							item6	1	1
+57	user3020	user3061	user336	user4857							item7	8	0
+58	user3020	user3061	user336	user4857							item8	9	0
+59	user3020	user3061	user336	user4857							item9	10	0
+60	user2367	user3167	user2379	user3961							item0	1	1
+61	user2367	user3167	user2379	user3961							item1	5	0
+62	user2367	user3167	user2379	user3961							item2	2	0
+63	user2367	user3167	user2379	user3961							item3	3	0
+64	user2367	user3167	user2379	user3961							item4	6	0
+65	user2367	user3167	user2379	user3961							item5	7	0
+66	user2367	user3167	user2379	user3961							item6	4	0
+67	user2367	user3167	user2379	user3961							item7	8	0
+68	user2367	user3167	user2379	user3961							item8	9	0
+69	user2367	user3167	user2379	user3961							item9	10	0
+70	user3283	user4224	user2881	user4683	user3634	user2645	user980	user97	user3817		item0	3	0
+71	user3283	user4224	user2881	user4683	user3634	user2645	user980	user97	user3817		item1	2	0
+72	user3283	user4224	user2881	user4683	user3634	user2645	user980	user97	user3817		item2	7	0
+73	user3283	user4224	user2881	user4683	user3634	user2645	user980	user97	user3817		item3	1	1
+74	user3283	user4224	user2881	user4683	user3634	user2645	user980	user97	user3817		item4	4	0
+75	user3283	user4224	user2881	user4683	user3634	user2645	user980	user97	user3817		item5	8	0
+76	user3283	user4224	user2881	user4683	user3634	user2645	user980	user97	user3817		item6	5	0
+77	user3283	user4224	user2881	user4683	user3634	user2645	user980	user97	user3817		item7	6	0
+78	user3283	user4224	user2881	user4683	user3634	user2645	user980	user97	user3817		item8	9	0
+79	user3283	user4224	user2881	user4683	user3634	user2645	user980	user97	user3817		item9	10	0
+80	user3505	user3903	user365	user3669	user1289	user835	user1182	user4273			item0	3	0
+81	user3505	user3903	user365	user3669	user1289	user835	user1182	user4273			item1	1	1
+82	user3505	user3903	user365	user3669	user1289	user835	user1182	user4273			item2	6	0
+83	user3505	user3903	user365	user3669	user1289	user835	user1182	user4273			item3	4	0
+84	user3505	user3903	user365	user3669	user1289	user835	user1182	user4273			item4	7	0
+85	user3505	user3903	user365	user3669	user1289	user835	user1182	user4273			item5	8	0
+86	user3505	user3903	user365	user3669	user1289	user835	user1182	user4273			item6	2	0
+87	user3505	user3903	user365	user3669	user1289	user835	user1182	user4273			item7	9	0
+88	user3505	user3903	user365	user3669	user1289	user835	user1182	user4273			item8	10	0
+89	user3505	user3903	user365	user3669	user1289	user835	user1182	user4273			item9	5	0
+90	user369	user4527	user3767	user3720							item0	1	1
+91	user369	user4527	user3767	user3720							item1	4	0
+92	user369	user4527	user3767	user3720							item2	5	0
+93	user369	user4527	user3767	user3720							item3	2	0
+94	user369	user4527	user3767	user3720							item4	6	0
+95	user369	user4527	user3767	user3720							item5	7	0
+96	user369	user4527	user3767	user3720							item6	8	0
+97	user369	user4527	user3767	user3720							item7	9	0
+98	user369	user4527	user3767	user3720							item8	10	0
+99	user369	user4527	user3767	user3720							item9	3	0
+100	user264	user4090	user3934	user1753	user4325						item0	1	1
+101	user264	user4090	user3934	user1753	user4325						item1	6	0
+102	user264	user4090	user3934	user1753	user4325						item2	7	0
+103	user264	user4090	user3934	user1753	user4325						item3	8	0
+104	user264	user4090	user3934	user1753	user4325						item4	2	0
+105	user264	user4090	user3934	user1753	user4325						item5	3	0
+106	user264	user4090	user3934	user1753	user4325						item6	4	0
+107	user264	user4090	user3934	user1753	user4325						item7	9	0
+108	user264	user4090	user3934	user1753	user4325						item8	10	0
+109	user264	user4090	user3934	user1753	user4325						item9	5	0
+110	user3406	user4035	user4626	user187	user1269	user2593					item0	1	1
+111	user3406	user4035	user4626	user187	user1269	user2593					item1	7	0
+112	user3406	user4035	user4626	user187	user1269	user2593					item2	2	0
+113	user3406	user4035	user4626	user187	user1269	user2593					item3	3	0
+114	user3406	user4035	user4626	user187	user1269	user2593					item4	4	0
+115	user3406	user4035	user4626	user187	user1269	user2593					item5	8	0
+116	user3406	user4035	user4626	user187	user1269	user2593					item6	5	0
+117	user3406	user4035	user4626	user187	user1269	user2593					item7	9	0
+118	user3406	user4035	user4626	user187	user1269	user2593					item8	10	0
+119	user3406	user4035	user4626	user187	user1269	user2593					item9	6	0
+120	user3200	user1269	user1753	user2814	user3284						item0	2	0
+121	user3200	user1269	user1753	user2814	user3284						item1	5	0
+122	user3200	user1269	user1753	user2814	user3284						item2	6	0
+123	user3200	user1269	user1753	user2814	user3284						item3	3	0
+124	user3200	user1269	user1753	user2814	user3284						item4	7	0
+125	user3200	user1269	user1753	user2814	user3284						item5	8	0
+126	user3200	user1269	user1753	user2814	user3284						item6	1	1
+127	user3200	user1269	user1753	user2814	user3284						item7	4	0
+128	user3200	user1269	user1753	user2814	user3284						item8	9	0
+129	user3200	user1269	user1753	user2814	user3284						item9	10	0
+130	user4802	user1310	user2946	user3310							item0	1	1
+131	user4802	user1310	user2946	user3310							item1	4	0
+132	user4802	user1310	user2946	user3310							item2	5	0
+133	user4802	user1310	user2946	user3310							item3	2	0
+134	user4802	user1310	user2946	user3310							item4	6	0
+135	user4802	user1310	user2946	user3310							item5	7	0
+136	user4802	user1310	user2946	user3310							item6	8	0
+137	user4802	user1310	user2946	user3310							item7	9	0
+138	user4802	user1310	user2946	user3310							item8	3	0
+139	user4802	user1310	user2946	user3310							item9	10	0
+140	user4230	user4629	user2325	user738	user1755	user1186	user3211	user680	user3806	user4332	item0	6	0
+141	user4230	user4629	user2325	user738	user1755	user1186	user3211	user680	user3806	user4332	item1	7	0
+142	user4230	user4629	user2325	user738	user1755	user1186	user3211	user680	user3806	user4332	item2	4	0
+143	user4230	user4629	user2325	user738	user1755	user1186	user3211	user680	user3806	user4332	item3	2	0
+144	user4230	user4629	user2325	user738	user1755	user1186	user3211	user680	user3806	user4332	item4	1	1
+145	user4230	user4629	user2325	user738	user1755	user1186	user3211	user680	user3806	user4332	item5	5	0
+146	user4230	user4629	user2325	user738	user1755	user1186	user3211	user680	user3806	user4332	item6	3	0
+147	user4230	user4629	user2325	user738	user1755	user1186	user3211	user680	user3806	user4332	item7	8	0
+148	user4230	user4629	user2325	user738	user1755	user1186	user3211	user680	user3806	user4332	item8	9	0
+149	user4230	user4629	user2325	user738	user1755	user1186	user3211	user680	user3806	user4332	item9	10	0
+150	user574	user3571	user3402	user4210							item0	4	0
+151	user574	user3571	user3402	user4210							item1	2	0
+152	user574	user3571	user3402	user4210							item2	5	0
+153	user574	user3571	user3402	user4210							item3	1	1
+154	user574	user3571	user3402	user4210							item4	6	0
+155	user574	user3571	user3402	user4210							item5	7	0
+156	user574	user3571	user3402	user4210							item6	3	0
+157	user574	user3571	user3402	user4210							item7	8	0
+158	user574	user3571	user3402	user4210							item8	9	0
+159	user574	user3571	user3402	user4210							item9	10	0
+160	user3183	user3356	user4446								item0	1	1
+161	user3183	user3356	user4446								item1	4	0
+162	user3183	user3356	user4446								item2	5	0
+163	user3183	user3356	user4446								item3	6	0
+164	user3183	user3356	user4446								item4	7	0
+165	user3183	user3356	user4446								item5	8	0
+166	user3183	user3356	user4446								item6	2	0
+167	user3183	user3356	user4446								item7	9	0
+168	user3183	user3356	user4446								item8	3	0
+169	user3183	user3356	user4446								item9	10	0
+170	user1727	user3463	user4524	user1136	user3511	user864					item0	4	0
+171	user1727	user3463	user4524	user1136	user3511	user864					item1	2	0
+172	user1727	user3463	user4524	user1136	user3511	user864					item2	5	0
+173	user1727	user3463	user4524	user1136	user3511	user864					item3	3	0
+174	user1727	user3463	user4524	user1136	user3511	user864					item4	6	0
+175	user1727	user3463	user4524	user1136	user3511	user864					item5	7	0
+176	user1727	user3463	user4524	user1136	user3511	user864					item6	1	1
+177	user1727	user3463	user4524	user1136	user3511	user864					item7	8	0
+178	user1727	user3463	user4524	user1136	user3511	user864					item8	9	0
+179	user1727	user3463	user4524	user1136	user3511	user864					item9	10	0
+180	user665	user2030	user3538	user3979	user132						item0	2	0
+181	user665	user2030	user3538	user3979	user132						item1	5	0
+182	user665	user2030	user3538	user3979	user132						item2	6	0
+183	user665	user2030	user3538	user3979	user132						item3	7	0
+184	user665	user2030	user3538	user3979	user132						item4	8	0
+185	user665	user2030	user3538	user3979	user132						item5	3	0
+186	user665	user2030	user3538	user3979	user132						item6	1	1
+187	user665	user2030	user3538	user3979	user132						item7	9	0
+188	user665	user2030	user3538	user3979	user132						item8	4	0
+189	user665	user2030	user3538	user3979	user132						item9	10	0
+190	user151	user4133	user1910	user4493	user4339	user442					item0	1	1
+191	user151	user4133	user1910	user4493	user4339	user442					item1	5	0
+192	user151	user4133	user1910	user4493	user4339	user442					item2	6	0
+193	user151	user4133	user1910	user4493	user4339	user442					item3	2	0
+194	user151	user4133	user1910	user4493	user4339	user442					item4	7	0
+195	user151	user4133	user1910	user4493	user4339	user442					item5	3	0
+196	user151	user4133	user1910	user4493	user4339	user442					item6	8	0
+197	user151	user4133	user1910	user4493	user4339	user442					item7	9	0
+198	user151	user4133	user1910	user4493	user4339	user442					item8	10	0
+199	user151	user4133	user1910	user4493	user4339	user442					item9	4	0
+200	user3321	user2589	user3142	user4143	user2053	user312	user4521	user2397	user1167	user1914	item0	5	0
+201	user3321	user2589	user3142	user4143	user2053	user312	user4521	user2397	user1167	user1914	item1	6	0
+202	user3321	user2589	user3142	user4143	user2053	user312	user4521	user2397	user1167	user1914	item2	7	0
+203	user3321	user2589	user3142	user4143	user2053	user312	user4521	user2397	user1167	user1914	item3	2	0
+204	user3321	user2589	user3142	user4143	user2053	user312	user4521	user2397	user1167	user1914	item4	3	0
+205	user3321	user2589	user3142	user4143	user2053	user312	user4521	user2397	user1167	user1914	item5	4	0
+206	user3321	user2589	user3142	user4143	user2053	user312	user4521	user2397	user1167	user1914	item6	1	1
+207	user3321	user2589	user3142	user4143	user2053	user312	user4521	user2397	user1167	user1914	item7	8	0
+208	user3321	user2589	user3142	user4143	user2053	user312	user4521	user2397	user1167	user1914	item8	9	0
+209	user3321	user2589	user3142	user4143	user2053	user312	user4521	user2397	user1167	user1914	item9	10	0
+210	user93	user2979	user3547								item0	1	1
+211	user93	user2979	user3547								item1	4	0
+212	user93	user2979	user3547								item2	2	0
+213	user93	user2979	user3547								item3	5	0
+214	user93	user2979	user3547								item4	3	0
+215	user93	user2979	user3547								item5	6	0
+216	user93	user2979	user3547								item6	7	0
+217	user93	user2979	user3547								item7	8	0
+218	user93	user2979	user3547								item8	9	0
+219	user93	user2979	user3547								item9	10	0
+220	user628	user77	user74	user3425	user3068	user615	user4667	user4341	user2837	user4225	item0	3	0
+221	user628	user77	user74	user3425	user3068	user615	user4667	user4341	user2837	user4225	item1	4	0
+222	user628	user77	user74	user3425	user3068	user615	user4667	user4341	user2837	user4225	item2	6	0
+223	user628	user77	user74	user3425	user3068	user615	user4667	user4341	user2837	user4225	item3	1	1
+224	user628	user77	user74	user3425	user3068	user615	user4667	user4341	user2837	user4225	item4	5	0
+225	user628	user77	user74	user3425	user3068	user615	user4667	user4341	user2837	user4225	item5	7	0
+226	user628	user77	user74	user3425	user3068	user615	user4667	user4341	user2837	user4225	item6	2	0
+227	user628	user77	user74	user3425	user3068	user615	user4667	user4341	user2837	user4225	item7	8	0
+228	user628	user77	user74	user3425	user3068	user615	user4667	user4341	user2837	user4225	item8	9	0
+229	user628	user77	user74	user3425	user3068	user615	user4667	user4341	user2837	user4225	item9	10	0
+230	user3990	user2948	user296	user3616	user1391	user4652	user199				item0	1	1
+231	user3990	user2948	user296	user3616	user1391	user4652	user199				item1	6	0
+232	user3990	user2948	user296	user3616	user1391	user4652	user199				item2	7	0
+233	user3990	user2948	user296	user3616	user1391	user4652	user199				item3	8	0
+234	user3990	user2948	user296	user3616	user1391	user4652	user199				item4	2	0
+235	user3990	user2948	user296	user3616	user1391	user4652	user199				item5	9	0
+236	user3990	user2948	user296	user3616	user1391	user4652	user199				item6	3	0
+237	user3990	user2948	user296	user3616	user1391	user4652	user199				item7	10	0
+238	user3990	user2948	user296	user3616	user1391	user4652	user199				item8	4	0
+239	user3990	user2948	user296	user3616	user1391	user4652	user199				item9	5	0
+240	user4690	user1753									item0	1	1
+241	user4690	user1753									item1	3	0
+242	user4690	user1753									item2	4	0
+243	user4690	user1753									item3	5	0
+244	user4690	user1753									item4	6	0
+245	user4690	user1753									item5	7	0
+246	user4690	user1753									item6	2	0
+247	user4690	user1753									item7	8	0
+248	user4690	user1753									item8	9	0
+249	user4690	user1753									item9	10	0
+250	user2452	user2641	user3796	user1802	user3771	user2951	user3011	user2499	user1231		item0	3	0
+251	user2452	user2641	user3796	user1802	user3771	user2951	user3011	user2499	user1231		item1	7	0
+252	user2452	user2641	user3796	user1802	user3771	user2951	user3011	user2499	user1231		item2	4	0
+253	user2452	user2641	user3796	user1802	user3771	user2951	user3011	user2499	user1231		item3	5	0
+254	user2452	user2641	user3796	user1802	user3771	user2951	user3011	user2499	user1231		item4	8	0
+255	user2452	user2641	user3796	user1802	user3771	user2951	user3011	user2499	user1231		item5	9	0
+256	user2452	user2641	user3796	user1802	user3771	user2951	user3011	user2499	user1231		item6	1	1
+257	user2452	user2641	user3796	user1802	user3771	user2951	user3011	user2499	user1231		item7	6	0
+258	user2452	user2641	user3796	user1802	user3771	user2951	user3011	user2499	user1231		item8	10	0
+259	user2452	user2641	user3796	user1802	user3771	user2951	user3011	user2499	user1231		item9	2	0
+260	user1764	user4813	user4931	user1638	user2833	user1476	user87	user428	user26		item0	4	0
+261	user1764	user4813	user4931	user1638	user2833	user1476	user87	user428	user26		item1	2	0
+262	user1764	user4813	user4931	user1638	user2833	user1476	user87	user428	user26		item2	6	0
+263	user1764	user4813	user4931	user1638	user2833	user1476	user87	user428	user26		item3	3	0
+264	user1764	user4813	user4931	user1638	user2833	user1476	user87	user428	user26		item4	7	0
+265	user1764	user4813	user4931	user1638	user2833	user1476	user87	user428	user26		item5	8	0
+266	user1764	user4813	user4931	user1638	user2833	user1476	user87	user428	user26		item6	1	1
+267	user1764	user4813	user4931	user1638	user2833	user1476	user87	user428	user26		item7	9	0
+268	user1764	user4813	user4931	user1638	user2833	user1476	user87	user428	user26		item8	5	0
+269	user1764	user4813	user4931	user1638	user2833	user1476	user87	user428	user26		item9	10	0
+270	user2608	user4196	user411	user3827	user1218	user4770	user4495	user2277			item0	2	0
+271	user2608	user4196	user411	user3827	user1218	user4770	user4495	user2277			item1	5	0
+272	user2608	user4196	user411	user3827	user1218	user4770	user4495	user2277			item2	6	0
+273	user2608	user4196	user411	user3827	user1218	user4770	user4495	user2277			item3	3	0
+274	user2608	user4196	user411	user3827	user1218	user4770	user4495	user2277			item4	7	0
+275	user2608	user4196	user411	user3827	user1218	user4770	user4495	user2277			item5	4	0
+276	user2608	user4196	user411	user3827	user1218	user4770	user4495	user2277			item6	1	1
+277	user2608	user4196	user411	user3827	user1218	user4770	user4495	user2277			item7	8	0
+278	user2608	user4196	user411	user3827	user1218	user4770	user4495	user2277			item8	9	0
+279	user2608	user4196	user411	user3827	user1218	user4770	user4495	user2277			item9	10	0
+280	user2826	user2048	user3601	user1338	user2625	user1919	user1933				item0	1	1
+281	user2826	user2048	user3601	user1338	user2625	user1919	user1933				item1	5	0
+282	user2826	user2048	user3601	user1338	user2625	user1919	user1933				item2	6	0
+283	user2826	user2048	user3601	user1338	user2625	user1919	user1933				item3	2	0
+284	user2826	user2048	user3601	user1338	user2625	user1919	user1933				item4	4	0
+285	user2826	user2048	user3601	user1338	user2625	user1919	user1933				item5	7	0
+286	user2826	user2048	user3601	user1338	user2625	user1919	user1933				item6	3	0
+287	user2826	user2048	user3601	user1338	user2625	user1919	user1933				item7	8	0
+288	user2826	user2048	user3601	user1338	user2625	user1919	user1933				item8	9	0
+289	user2826	user2048	user3601	user1338	user2625	user1919	user1933				item9	10	0
+290	user3625	user3291	user3599	user4701	user3260	user1065	user4374	user1504			item0	6	0
+291	user3625	user3291	user3599	user4701	user3260	user1065	user4374	user1504			item1	7	0
+292	user3625	user3291	user3599	user4701	user3260	user1065	user4374	user1504			item2	8	0
+293	user3625	user3291	user3599	user4701	user3260	user1065	user4374	user1504			item3	1	1
+294	user3625	user3291	user3599	user4701	user3260	user1065	user4374	user1504			item4	4	0
+295	user3625	user3291	user3599	user4701	user3260	user1065	user4374	user1504			item5	2	0
+296	user3625	user3291	user3599	user4701	user3260	user1065	user4374	user1504			item6	3	0
+297	user3625	user3291	user3599	user4701	user3260	user1065	user4374	user1504			item7	5	0
+298	user3625	user3291	user3599	user4701	user3260	user1065	user4374	user1504			item8	9	0
+299	user3625	user3291	user3599	user4701	user3260	user1065	user4374	user1504			item9	10	0
+300	user26	user4618	user4298	user2180	user2858	user3584	user3191				item0	2	0
+301	user26	user4618	user4298	user2180	user2858	user3584	user3191				item1	3	0
+302	user26	user4618	user4298	user2180	user2858	user3584	user3191				item2	6	0
+303	user26	user4618	user4298	user2180	user2858	user3584	user3191				item3	4	0
+304	user26	user4618	user4298	user2180	user2858	user3584	user3191				item4	1	1
+305	user26	user4618	user4298	user2180	user2858	user3584	user3191				item5	7	0
+306	user26	user4618	user4298	user2180	user2858	user3584	user3191				item6	5	0
+307	user26	user4618	user4298	user2180	user2858	user3584	user3191				item7	8	0
+308	user26	user4618	user4298	user2180	user2858	user3584	user3191				item8	9	0
+309	user26	user4618	user4298	user2180	user2858	user3584	user3191				item9	10	0
+310	user566	user39	user502	user2189							item0	2	0
+311	user566	user39	user502	user2189							item1	4	0
+312	user566	user39	user502	user2189							item2	5	0
+313	user566	user39	user502	user2189							item3	1	1
+314	user566	user39	user502	user2189							item4	3	0
+315	user566	user39	user502	user2189							item5	6	0
+316	user566	user39	user502	user2189							item6	7	0
+317	user566	user39	user502	user2189							item7	8	0
+318	user566	user39	user502	user2189							item8	9	0
+319	user566	user39	user502	user2189							item9	10	0
+320	user342	user2741	user2618	user2323	user4410	user3689	user4354				item0	3	0
+321	user342	user2741	user2618	user2323	user4410	user3689	user4354				item1	1	1
+322	user342	user2741	user2618	user2323	user4410	user3689	user4354				item2	4	0
+323	user342	user2741	user2618	user2323	user4410	user3689	user4354				item3	5	0
+324	user342	user2741	user2618	user2323	user4410	user3689	user4354				item4	6	0
+325	user342	user2741	user2618	user2323	user4410	user3689	user4354				item5	2	0
+326	user342	user2741	user2618	user2323	user4410	user3689	user4354				item6	7	0
+327	user342	user2741	user2618	user2323	user4410	user3689	user4354				item7	8	0
+328	user342	user2741	user2618	user2323	user4410	user3689	user4354				item8	9	0
+329	user342	user2741	user2618	user2323	user4410	user3689	user4354				item9	10	0
+330	user4135	user4562	user4465	user253	user3855						item0	2	0
+331	user4135	user4562	user4465	user253	user3855						item1	5	0
+332	user4135	user4562	user4465	user253	user3855						item2	6	0
+333	user4135	user4562	user4465	user253	user3855						item3	7	0
+334	user4135	user4562	user4465	user253	user3855						item4	3	0
+335	user4135	user4562	user4465	user253	user3855						item5	8	0
+336	user4135	user4562	user4465	user253	user3855						item6	1	1
+337	user4135	user4562	user4465	user253	user3855						item7	4	0
+338	user4135	user4562	user4465	user253	user3855						item8	9	0
+339	user4135	user4562	user4465	user253	user3855						item9	10	0
+340	user4415	user4256	user2295	user2939	user3047	user3659	user3874	user4206	user1760	user736	item0	3	0
+341	user4415	user4256	user2295	user2939	user3047	user3659	user3874	user4206	user1760	user736	item1	6	0
+342	user4415	user4256	user2295	user2939	user3047	user3659	user3874	user4206	user1760	user736	item2	7	0
+343	user4415	user4256	user2295	user2939	user3047	user3659	user3874	user4206	user1760	user736	item3	1	1
+344	user4415	user4256	user2295	user2939	user3047	user3659	user3874	user4206	user1760	user736	item4	2	0
+345	user4415	user4256	user2295	user2939	user3047	user3659	user3874	user4206	user1760	user736	item5	8	0
+346	user4415	user4256	user2295	user2939	user3047	user3659	user3874	user4206	user1760	user736	item6	4	0
+347	user4415	user4256	user2295	user2939	user3047	user3659	user3874	user4206	user1760	user736	item7	9	0
+348	user4415	user4256	user2295	user2939	user3047	user3659	user3874	user4206	user1760	user736	item8	10	0
+349	user4415	user4256	user2295	user2939	user3047	user3659	user3874	user4206	user1760	user736	item9	5	0
+350	user3093	user3388	user2886	user1249	user3914	user2736	user4935				item0	3	0
+351	user3093	user3388	user2886	user1249	user3914	user2736	user4935				item1	1	1
+352	user3093	user3388	user2886	user1249	user3914	user2736	user4935				item2	4	0
+353	user3093	user3388	user2886	user1249	user3914	user2736	user4935				item3	5	0
+354	user3093	user3388	user2886	user1249	user3914	user2736	user4935				item4	6	0
+355	user3093	user3388	user2886	user1249	user3914	user2736	user4935				item5	7	0
+356	user3093	user3388	user2886	user1249	user3914	user2736	user4935				item6	2	0
+357	user3093	user3388	user2886	user1249	user3914	user2736	user4935				item7	8	0
+358	user3093	user3388	user2886	user1249	user3914	user2736	user4935				item8	9	0
+359	user3093	user3388	user2886	user1249	user3914	user2736	user4935				item9	10	0
+360	user1348	user4434	user2475	user3419	user3917	user3229					item0	1	1
+361	user1348	user4434	user2475	user3419	user3917	user3229					item1	5	0
+362	user1348	user4434	user2475	user3419	user3917	user3229					item2	6	0
+363	user1348	user4434	user2475	user3419	user3917	user3229					item3	7	0
+364	user1348	user4434	user2475	user3419	user3917	user3229					item4	2	0
+365	user1348	user4434	user2475	user3419	user3917	user3229					item5	8	0
+366	user1348	user4434	user2475	user3419	user3917	user3229					item6	3	0
+367	user1348	user4434	user2475	user3419	user3917	user3229					item7	9	0
+368	user1348	user4434	user2475	user3419	user3917	user3229					item8	10	0
+369	user1348	user4434	user2475	user3419	user3917	user3229					item9	4	0
+370	user2790	user4450	user2204	user3035	user1947	user1308					item0	4	0
+371	user2790	user4450	user2204	user3035	user1947	user1308					item1	5	0
+372	user2790	user4450	user2204	user3035	user1947	user1308					item2	6	0
+373	user2790	user4450	user2204	user3035	user1947	user1308					item3	2	0
+374	user2790	user4450	user2204	user3035	user1947	user1308					item4	7	0
+375	user2790	user4450	user2204	user3035	user1947	user1308					item5	8	0
+376	user2790	user4450	user2204	user3035	user1947	user1308					item6	1	1
+377	user2790	user4450	user2204	user3035	user1947	user1308					item7	9	0
+378	user2790	user4450	user2204	user3035	user1947	user1308					item8	3	0
+379	user2790	user4450	user2204	user3035	user1947	user1308					item9	10	0
+380	user2678	user1984	user3738	user3369	user2171	user3119	user769	user4244	user3304		item0	3	0
+381	user2678	user1984	user3738	user3369	user2171	user3119	user769	user4244	user3304		item1	1	1
+382	user2678	user1984	user3738	user3369	user2171	user3119	user769	user4244	user3304		item2	4	0
+383	user2678	user1984	user3738	user3369	user2171	user3119	user769	user4244	user3304		item3	2	0
+384	user2678	user1984	user3738	user3369	user2171	user3119	user769	user4244	user3304		item4	5	0
+385	user2678	user1984	user3738	user3369	user2171	user3119	user769	user4244	user3304		item5	6	0
+386	user2678	user1984	user3738	user3369	user2171	user3119	user769	user4244	user3304		item6	7	0
+387	user2678	user1984	user3738	user3369	user2171	user3119	user769	user4244	user3304		item7	8	0
+388	user2678	user1984	user3738	user3369	user2171	user3119	user769	user4244	user3304		item8	9	0
+389	user2678	user1984	user3738	user3369	user2171	user3119	user769	user4244	user3304		item9	10	0
+390	user4312	user3589									item0	3	0
+391	user4312	user3589									item1	1	1
+392	user4312	user3589									item2	4	0
+393	user4312	user3589									item3	5	0
+394	user4312	user3589									item4	6	0
+395	user4312	user3589									item5	7	0
+396	user4312	user3589									item6	8	0
+397	user4312	user3589									item7	9	0
+398	user4312	user3589									item8	10	0
+399	user4312	user3589									item9	2	0
+400	user3801	user3157	user87	user4130	user3391	user1716					item0	2	0
+401	user3801	user3157	user87	user4130	user3391	user1716					item1	1	1
+402	user3801	user3157	user87	user4130	user3391	user1716					item2	6	0
+403	user3801	user3157	user87	user4130	user3391	user1716					item3	3	0
+404	user3801	user3157	user87	user4130	user3391	user1716					item4	4	0
+405	user3801	user3157	user87	user4130	user3391	user1716					item5	7	0
+406	user3801	user3157	user87	user4130	user3391	user1716					item6	5	0
+407	user3801	user3157	user87	user4130	user3391	user1716					item7	8	0
+408	user3801	user3157	user87	user4130	user3391	user1716					item8	9	0
+409	user3801	user3157	user87	user4130	user3391	user1716					item9	10	0
+410	user2450	user441	user751	user4300							item0	3	0
+411	user2450	user441	user751	user4300							item1	4	0
+412	user2450	user441	user751	user4300							item2	5	0
+413	user2450	user441	user751	user4300							item3	1	1
+414	user2450	user441	user751	user4300							item4	6	0
+415	user2450	user441	user751	user4300							item5	2	0
+416	user2450	user441	user751	user4300							item6	7	0
+417	user2450	user441	user751	user4300							item7	8	0
+418	user2450	user441	user751	user4300							item8	9	0
+419	user2450	user441	user751	user4300							item9	10	0
+420	user620	user1538	user880	user4131	user1365	user4893	user3701	user1703	user1517	user2356	item0	1	1
+421	user620	user1538	user880	user4131	user1365	user4893	user3701	user1703	user1517	user2356	item1	7	0
+422	user620	user1538	user880	user4131	user1365	user4893	user3701	user1703	user1517	user2356	item2	4	0
+423	user620	user1538	user880	user4131	user1365	user4893	user3701	user1703	user1517	user2356	item3	2	0
+424	user620	user1538	user880	user4131	user1365	user4893	user3701	user1703	user1517	user2356	item4	5	0
+425	user620	user1538	user880	user4131	user1365	user4893	user3701	user1703	user1517	user2356	item5	6	0
+426	user620	user1538	user880	user4131	user1365	user4893	user3701	user1703	user1517	user2356	item6	3	0
+427	user620	user1538	user880	user4131	user1365	user4893	user3701	user1703	user1517	user2356	item7	8	0
+428	user620	user1538	user880	user4131	user1365	user4893	user3701	user1703	user1517	user2356	item8	9	0
+429	user620	user1538	user880	user4131	user1365	user4893	user3701	user1703	user1517	user2356	item9	10	0
+430	user276	user1268	user4042								item0	1	1
+431	user276	user1268	user4042								item1	4	0
+432	user276	user1268	user4042								item2	5	0
+433	user276	user1268	user4042								item3	6	0
+434	user276	user1268	user4042								item4	2	0
+435	user276	user1268	user4042								item5	7	0
+436	user276	user1268	user4042								item6	3	0
+437	user276	user1268	user4042								item7	8	0
+438	user276	user1268	user4042								item8	9	0
+439	user276	user1268	user4042								item9	10	0
+440	user3302	user190	user3741								item0	1	1
+441	user3302	user190	user3741								item1	4	0
+442	user3302	user190	user3741								item2	5	0
+443	user3302	user190	user3741								item3	6	0
+444	user3302	user190	user3741								item4	7	0
+445	user3302	user190	user3741								item5	8	0
+446	user3302	user190	user3741								item6	2	0
+447	user3302	user190	user3741								item7	9	0
+448	user3302	user190	user3741								item8	10	0
+449	user3302	user190	user3741								item9	3	0
+450	user1487	user2192	user4401	user2381	user2655	user767					item0	5	0
+451	user1487	user2192	user4401	user2381	user2655	user767					item1	2	0
+452	user1487	user2192	user4401	user2381	user2655	user767					item2	6	0
+453	user1487	user2192	user4401	user2381	user2655	user767					item3	1	1
+454	user1487	user2192	user4401	user2381	user2655	user767					item4	3	0
+455	user1487	user2192	user4401	user2381	user2655	user767					item5	7	0
+456	user1487	user2192	user4401	user2381	user2655	user767					item6	4	0
+457	user1487	user2192	user4401	user2381	user2655	user767					item7	8	0
+458	user1487	user2192	user4401	user2381	user2655	user767					item8	9	0
+459	user1487	user2192	user4401	user2381	user2655	user767					item9	10	0
+460	user4922	user2363	user3587	user3167							item0	3	0
+461	user4922	user2363	user3587	user3167							item1	1	1
+462	user4922	user2363	user3587	user3167							item2	4	0
+463	user4922	user2363	user3587	user3167							item3	2	0
+464	user4922	user2363	user3587	user3167							item4	5	0
+465	user4922	user2363	user3587	user3167							item5	6	0
+466	user4922	user2363	user3587	user3167							item6	7	0
+467	user4922	user2363	user3587	user3167							item7	8	0
+468	user4922	user2363	user3587	user3167							item8	9	0
+469	user4922	user2363	user3587	user3167							item9	10	0
+470	user3671	user2743	user2248	user1762	user3045	user3035	user4017	user4152	user4684		item0	3	0
+471	user3671	user2743	user2248	user1762	user3045	user3035	user4017	user4152	user4684		item1	8	0
+472	user3671	user2743	user2248	user1762	user3045	user3035	user4017	user4152	user4684		item2	1	1
+473	user3671	user2743	user2248	user1762	user3045	user3035	user4017	user4152	user4684		item3	4	0
+474	user3671	user2743	user2248	user1762	user3045	user3035	user4017	user4152	user4684		item4	5	0
+475	user3671	user2743	user2248	user1762	user3045	user3035	user4017	user4152	user4684		item5	6	0
+476	user3671	user2743	user2248	user1762	user3045	user3035	user4017	user4152	user4684		item6	2	0
+477	user3671	user2743	user2248	user1762	user3045	user3035	user4017	user4152	user4684		item7	9	0
+478	user3671	user2743	user2248	user1762	user3045	user3035	user4017	user4152	user4684		item8	10	0
+479	user3671	user2743	user2248	user1762	user3045	user3035	user4017	user4152	user4684		item9	7	0
+480	user2542	user1788									item0	3	0
+481	user2542	user1788									item1	4	0
+482	user2542	user1788									item2	1	1
+483	user2542	user1788									item3	5	0
+484	user2542	user1788									item4	6	0
+485	user2542	user1788									item5	7	0
+486	user2542	user1788									item6	2	0
+487	user2542	user1788									item7	8	0
+488	user2542	user1788									item8	9	0
+489	user2542	user1788									item9	10	0
+490	user1790	user4914	user3971	user252	user4941	user1332	user1341	user1129			item0	5	0
+491	user1790	user4914	user3971	user252	user4941	user1332	user1341	user1129			item1	6	0
+492	user1790	user4914	user3971	user252	user4941	user1332	user1341	user1129			item2	7	0
+493	user1790	user4914	user3971	user252	user4941	user1332	user1341	user1129			item3	1	1
+494	user1790	user4914	user3971	user252	user4941	user1332	user1341	user1129			item4	2	0
+495	user1790	user4914	user3971	user252	user4941	user1332	user1341	user1129			item5	8	0
+496	user1790	user4914	user3971	user252	user4941	user1332	user1341	user1129			item6	3	0
+497	user1790	user4914	user3971	user252	user4941	user1332	user1341	user1129			item7	9	0
+498	user1790	user4914	user3971	user252	user4941	user1332	user1341	user1129			item8	4	0
+499	user1790	user4914	user3971	user252	user4941	user1332	user1341	user1129			item9	10	0
+500	user4717	user4079	user3831	user158							item0	4	0
+501	user4717	user4079	user3831	user158							item1	5	0
+502	user4717	user4079	user3831	user158							item2	6	0
+503	user4717	user4079	user3831	user158							item3	2	0
+504	user4717	user4079	user3831	user158							item4	7	0
+505	user4717	user4079	user3831	user158							item5	3	0
+506	user4717	user4079	user3831	user158							item6	8	0
+507	user4717	user4079	user3831	user158							item7	9	0
+508	user4717	user4079	user3831	user158							item8	10	0
+509	user4717	user4079	user3831	user158							item9	1	1
+510	user2251	user288	user4601								item0	1	1
+511	user2251	user288	user4601								item1	4	0
+512	user2251	user288	user4601								item2	5	0
+513	user2251	user288	user4601								item3	6	0
+514	user2251	user288	user4601								item4	7	0
+515	user2251	user288	user4601								item5	8	0
+516	user2251	user288	user4601								item6	2	0
+517	user2251	user288	user4601								item7	9	0
+518	user2251	user288	user4601								item8	3	0
+519	user2251	user288	user4601								item9	10	0
+520	user3270	user769	user384	user1733	user1120	user3525	user3125	user3466	user522	user4135	item0	9	0
+521	user3270	user769	user384	user1733	user1120	user3525	user3125	user3466	user522	user4135	item1	2	0
+522	user3270	user769	user384	user1733	user1120	user3525	user3125	user3466	user522	user4135	item2	3	0
+523	user3270	user769	user384	user1733	user1120	user3525	user3125	user3466	user522	user4135	item3	4	0
+524	user3270	user769	user384	user1733	user1120	user3525	user3125	user3466	user522	user4135	item4	5	0
+525	user3270	user769	user384	user1733	user1120	user3525	user3125	user3466	user522	user4135	item5	10	0
+526	user3270	user769	user384	user1733	user1120	user3525	user3125	user3466	user522	user4135	item6	1	1
+527	user3270	user769	user384	user1733	user1120	user3525	user3125	user3466	user522	user4135	item7	6	0
+528	user3270	user769	user384	user1733	user1120	user3525	user3125	user3466	user522	user4135	item8	7	0
+529	user3270	user769	user384	user1733	user1120	user3525	user3125	user3466	user522	user4135	item9	8	0
+530	user899	user3279	user562								item0	3	0
+531	user899	user3279	user562								item1	4	0
+532	user899	user3279	user562								item2	5	0
+533	user899	user3279	user562								item3	6	0
+534	user899	user3279	user562								item4	7	0
+535	user899	user3279	user562								item5	2	0
+536	user899	user3279	user562								item6	1	1
+537	user899	user3279	user562								item7	8	0
+538	user899	user3279	user562								item8	9	0
+539	user899	user3279	user562								item9	10	0
+540	user3329	user162	user3661	user2424							item0	3	0
+541	user3329	user162	user3661	user2424							item1	4	0
+542	user3329	user162	user3661	user2424							item2	5	0
+543	user3329	user162	user3661	user2424							item3	6	0
+544	user3329	user162	user3661	user2424							item4	7	0
+545	user3329	user162	user3661	user2424							item5	8	0
+546	user3329	user162	user3661	user2424							item6	1	1
+547	user3329	user162	user3661	user2424							item7	9	0
+548	user3329	user162	user3661	user2424							item8	2	0
+549	user3329	user162	user3661	user2424							item9	10	0
+550	user4055	user2360	user50	user1698	user1019	user2489					item0	2	0
+551	user4055	user2360	user50	user1698	user1019	user2489					item1	1	1
+552	user4055	user2360	user50	user1698	user1019	user2489					item2	6	0
+553	user4055	user2360	user50	user1698	user1019	user2489					item3	3	0
+554	user4055	user2360	user50	user1698	user1019	user2489					item4	4	0
+555	user4055	user2360	user50	user1698	user1019	user2489					item5	7	0
+556	user4055	user2360	user50	user1698	user1019	user2489					item6	8	0
+557	user4055	user2360	user50	user1698	user1019	user2489					item7	9	0
+558	user4055	user2360	user50	user1698	user1019	user2489					item8	10	0
+559	user4055	user2360	user50	user1698	user1019	user2489					item9	5	0
+560	user101	user848	user4620	user3489	user1080	user1530	user3029				item0	3	0
+561	user101	user848	user4620	user3489	user1080	user1530	user3029				item1	5	0
+562	user101	user848	user4620	user3489	user1080	user1530	user3029				item2	6	0
+563	user101	user848	user4620	user3489	user1080	user1530	user3029				item3	7	0
+564	user101	user848	user4620	user3489	user1080	user1530	user3029				item4	1	1
+565	user101	user848	user4620	user3489	user1080	user1530	user3029				item5	4	0
+566	user101	user848	user4620	user3489	user1080	user1530	user3029				item6	2	0
+567	user101	user848	user4620	user3489	user1080	user1530	user3029				item7	8	0
+568	user101	user848	user4620	user3489	user1080	user1530	user3029				item8	9	0
+569	user101	user848	user4620	user3489	user1080	user1530	user3029				item9	10	0
+570	user1094	user3477	user3142	user340							item0	4	0
+571	user1094	user3477	user3142	user340							item1	2	0
+572	user1094	user3477	user3142	user340							item2	3	0
+573	user1094	user3477	user3142	user340							item3	5	0
+574	user1094	user3477	user3142	user340							item4	6	0
+575	user1094	user3477	user3142	user340							item5	7	0
+576	user1094	user3477	user3142	user340							item6	1	1
+577	user1094	user3477	user3142	user340							item7	8	0
+578	user1094	user3477	user3142	user340							item8	9	0
+579	user1094	user3477	user3142	user340							item9	10	0
+580	user3673	user4600	user2011	user2474	user2871	user2760	user3254	user3414	user1006		item0	1	1
+581	user3673	user4600	user2011	user2474	user2871	user2760	user3254	user3414	user1006		item1	7	0
+582	user3673	user4600	user2011	user2474	user2871	user2760	user3254	user3414	user1006		item2	2	0
+583	user3673	user4600	user2011	user2474	user2871	user2760	user3254	user3414	user1006		item3	8	0
+584	user3673	user4600	user2011	user2474	user2871	user2760	user3254	user3414	user1006		item4	3	0
+585	user3673	user4600	user2011	user2474	user2871	user2760	user3254	user3414	user1006		item5	4	0
+586	user3673	user4600	user2011	user2474	user2871	user2760	user3254	user3414	user1006		item6	5	0
+587	user3673	user4600	user2011	user2474	user2871	user2760	user3254	user3414	user1006		item7	9	0
+588	user3673	user4600	user2011	user2474	user2871	user2760	user3254	user3414	user1006		item8	10	0
+589	user3673	user4600	user2011	user2474	user2871	user2760	user3254	user3414	user1006		item9	6	0
+590	user560	user1511	user4964								item0	4	0
+591	user560	user1511	user4964								item1	5	0
+592	user560	user1511	user4964								item2	1	1
+593	user560	user1511	user4964								item3	6	0
+594	user560	user1511	user4964								item4	7	0
+595	user560	user1511	user4964								item5	2	0
+596	user560	user1511	user4964								item6	8	0
+597	user560	user1511	user4964								item7	9	0
+598	user560	user1511	user4964								item8	10	0
+599	user560	user1511	user4964								item9	3	0
+600	user3817	user3302	user4799	user3652	user2708						item0	5	0
+601	user3817	user3302	user4799	user3652	user2708						item1	6	0
+602	user3817	user3302	user4799	user3652	user2708						item2	7	0
+603	user3817	user3302	user4799	user3652	user2708						item3	2	0
+604	user3817	user3302	user4799	user3652	user2708						item4	3	0
+605	user3817	user3302	user4799	user3652	user2708						item5	8	0
+606	user3817	user3302	user4799	user3652	user2708						item6	4	0
+607	user3817	user3302	user4799	user3652	user2708						item7	9	0
+608	user3817	user3302	user4799	user3652	user2708						item8	10	0
+609	user3817	user3302	user4799	user3652	user2708						item9	1	1
+610	user2635	user708	user1997	user3336	user4630	user3473	user2311	user921	user2198		item0	2	0
+611	user2635	user708	user1997	user3336	user4630	user3473	user2311	user921	user2198		item1	3	0
+612	user2635	user708	user1997	user3336	user4630	user3473	user2311	user921	user2198		item2	5	0
+613	user2635	user708	user1997	user3336	user4630	user3473	user2311	user921	user2198		item3	1	1
+614	user2635	user708	user1997	user3336	user4630	user3473	user2311	user921	user2198		item4	4	0
+615	user2635	user708	user1997	user3336	user4630	user3473	user2311	user921	user2198		item5	6	0
+616	user2635	user708	user1997	user3336	user4630	user3473	user2311	user921	user2198		item6	7	0
+617	user2635	user708	user1997	user3336	user4630	user3473	user2311	user921	user2198		item7	8	0
+618	user2635	user708	user1997	user3336	user4630	user3473	user2311	user921	user2198		item8	9	0
+619	user2635	user708	user1997	user3336	user4630	user3473	user2311	user921	user2198		item9	10	0
+620	user4788	user1383	user4104	user1039	user2082	user2656	user2324				item0	2	0
+621	user4788	user1383	user4104	user1039	user2082	user2656	user2324				item1	4	0
+622	user4788	user1383	user4104	user1039	user2082	user2656	user2324				item2	5	0
+623	user4788	user1383	user4104	user1039	user2082	user2656	user2324				item3	6	0
+624	user4788	user1383	user4104	user1039	user2082	user2656	user2324				item4	7	0
+625	user4788	user1383	user4104	user1039	user2082	user2656	user2324				item5	8	0
+626	user4788	user1383	user4104	user1039	user2082	user2656	user2324				item6	1	1
+627	user4788	user1383	user4104	user1039	user2082	user2656	user2324				item7	9	0
+628	user4788	user1383	user4104	user1039	user2082	user2656	user2324				item8	10	0
+629	user4788	user1383	user4104	user1039	user2082	user2656	user2324				item9	3	0
+630	user4364	user1846	user3980	user3131	user3511	user3116	user1118				item0	5	0
+631	user4364	user1846	user3980	user3131	user3511	user3116	user1118				item1	6	0
+632	user4364	user1846	user3980	user3131	user3511	user3116	user1118				item2	7	0
+633	user4364	user1846	user3980	user3131	user3511	user3116	user1118				item3	2	0
+634	user4364	user1846	user3980	user3131	user3511	user3116	user1118				item4	3	0
+635	user4364	user1846	user3980	user3131	user3511	user3116	user1118				item5	8	0
+636	user4364	user1846	user3980	user3131	user3511	user3116	user1118				item6	1	1
+637	user4364	user1846	user3980	user3131	user3511	user3116	user1118				item7	9	0
+638	user4364	user1846	user3980	user3131	user3511	user3116	user1118				item8	10	0
+639	user4364	user1846	user3980	user3131	user3511	user3116	user1118				item9	4	0
+640	user323	user4090	user1967	user3456	user1661						item0	4	0
+641	user323	user4090	user1967	user3456	user1661						item1	5	0
+642	user323	user4090	user1967	user3456	user1661						item2	6	0
+643	user323	user4090	user1967	user3456	user1661						item3	7	0
+644	user323	user4090	user1967	user3456	user1661						item4	3	0
+645	user323	user4090	user1967	user3456	user1661						item5	1	1
+646	user323	user4090	user1967	user3456	user1661						item6	2	0
+647	user323	user4090	user1967	user3456	user1661						item7	8	0
+648	user323	user4090	user1967	user3456	user1661						item8	9	0
+649	user323	user4090	user1967	user3456	user1661						item9	10	0
+650	user4945	user1924									item0	3	0
+651	user4945	user1924									item1	1	1
+652	user4945	user1924									item2	4	0
+653	user4945	user1924									item3	5	0
+654	user4945	user1924									item4	6	0
+655	user4945	user1924									item5	7	0
+656	user4945	user1924									item6	2	0
+657	user4945	user1924									item7	8	0
+658	user4945	user1924									item8	9	0
+659	user4945	user1924									item9	10	0
+660	user2609	user693	user4319	user3702	user2953	user3145	user2584	user4028	user1258		item0	3	0
+661	user2609	user693	user4319	user3702	user2953	user3145	user2584	user4028	user1258		item1	1	1
+662	user2609	user693	user4319	user3702	user2953	user3145	user2584	user4028	user1258		item2	7	0
+663	user2609	user693	user4319	user3702	user2953	user3145	user2584	user4028	user1258		item3	8	0
+664	user2609	user693	user4319	user3702	user2953	user3145	user2584	user4028	user1258		item4	4	0
+665	user2609	user693	user4319	user3702	user2953	user3145	user2584	user4028	user1258		item5	5	0
+666	user2609	user693	user4319	user3702	user2953	user3145	user2584	user4028	user1258		item6	2	0
+667	user2609	user693	user4319	user3702	user2953	user3145	user2584	user4028	user1258		item7	6	0
+668	user2609	user693	user4319	user3702	user2953	user3145	user2584	user4028	user1258		item8	9	0
+669	user2609	user693	user4319	user3702	user2953	user3145	user2584	user4028	user1258		item9	10	0
+670	user41	user3762	user484	user1677	user116	user4125	user3515	user3567	user3116	user1266	item0	4	0
+671	user41	user3762	user484	user1677	user116	user4125	user3515	user3567	user3116	user1266	item1	7	0
+672	user41	user3762	user484	user1677	user116	user4125	user3515	user3567	user3116	user1266	item2	8	0
+673	user41	user3762	user484	user1677	user116	user4125	user3515	user3567	user3116	user1266	item3	2	0
+674	user41	user3762	user484	user1677	user116	user4125	user3515	user3567	user3116	user1266	item4	3	0
+675	user41	user3762	user484	user1677	user116	user4125	user3515	user3567	user3116	user1266	item5	5	0
+676	user41	user3762	user484	user1677	user116	user4125	user3515	user3567	user3116	user1266	item6	6	0
+677	user41	user3762	user484	user1677	user116	user4125	user3515	user3567	user3116	user1266	item7	9	0
+678	user41	user3762	user484	user1677	user116	user4125	user3515	user3567	user3116	user1266	item8	10	0
+679	user41	user3762	user484	user1677	user116	user4125	user3515	user3567	user3116	user1266	item9	1	1
+680	user3980	user2206	user2921	user2703							item0	5	0
+681	user3980	user2206	user2921	user2703							item1	6	0
+682	user3980	user2206	user2921	user2703							item2	7	0
+683	user3980	user2206	user2921	user2703							item3	1	1
+684	user3980	user2206	user2921	user2703							item4	2	0
+685	user3980	user2206	user2921	user2703							item5	8	0
+686	user3980	user2206	user2921	user2703							item6	3	0
+687	user3980	user2206	user2921	user2703							item7	9	0
+688	user3980	user2206	user2921	user2703							item8	10	0
+689	user3980	user2206	user2921	user2703							item9	4	0
+690	user271	user2787	user4683	user1427	user3192	user2627					item0	2	0
+691	user271	user2787	user4683	user1427	user3192	user2627					item1	5	0
+692	user271	user2787	user4683	user1427	user3192	user2627					item2	3	0
+693	user271	user2787	user4683	user1427	user3192	user2627					item3	1	1
+694	user271	user2787	user4683	user1427	user3192	user2627					item4	6	0
+695	user271	user2787	user4683	user1427	user3192	user2627					item5	7	0
+696	user271	user2787	user4683	user1427	user3192	user2627					item6	4	0
+697	user271	user2787	user4683	user1427	user3192	user2627					item7	8	0
+698	user271	user2787	user4683	user1427	user3192	user2627					item8	9	0
+699	user271	user2787	user4683	user1427	user3192	user2627					item9	10	0
+700	user2065	user3495	user1126								item0	4	0
+701	user2065	user3495	user1126								item1	5	0
+702	user2065	user3495	user1126								item2	6	0
+703	user2065	user3495	user1126								item3	7	0
+704	user2065	user3495	user1126								item4	8	0
+705	user2065	user3495	user1126								item5	9	0
+706	user2065	user3495	user1126								item6	1	1
+707	user2065	user3495	user1126								item7	10	0
+708	user2065	user3495	user1126								item8	2	0
+709	user2065	user3495	user1126								item9	3	0
+710	user2685	user1576	user2904	user2493							item0	4	0
+711	user2685	user1576	user2904	user2493							item1	1	1
+712	user2685	user1576	user2904	user2493							item2	5	0
+713	user2685	user1576	user2904	user2493							item3	2	0
+714	user2685	user1576	user2904	user2493							item4	3	0
+715	user2685	user1576	user2904	user2493							item5	6	0
+716	user2685	user1576	user2904	user2493							item6	7	0
+717	user2685	user1576	user2904	user2493							item7	8	0
+718	user2685	user1576	user2904	user2493							item8	9	0
+719	user2685	user1576	user2904	user2493							item9	10	0
+720	user4124	user193	user346	user2588	user1613	user4870	user2090	user128	user3944	user2880	item0	7	0
+721	user4124	user193	user346	user2588	user1613	user4870	user2090	user128	user3944	user2880	item1	3	0
+722	user4124	user193	user346	user2588	user1613	user4870	user2090	user128	user3944	user2880	item2	8	0
+723	user4124	user193	user346	user2588	user1613	user4870	user2090	user128	user3944	user2880	item3	4	0
+724	user4124	user193	user346	user2588	user1613	user4870	user2090	user128	user3944	user2880	item4	1	1
+725	user4124	user193	user346	user2588	user1613	user4870	user2090	user128	user3944	user2880	item5	5	0
+726	user4124	user193	user346	user2588	user1613	user4870	user2090	user128	user3944	user2880	item6	2	0
+727	user4124	user193	user346	user2588	user1613	user4870	user2090	user128	user3944	user2880	item7	9	0
+728	user4124	user193	user346	user2588	user1613	user4870	user2090	user128	user3944	user2880	item8	10	0
+729	user4124	user193	user346	user2588	user1613	user4870	user2090	user128	user3944	user2880	item9	6	0
+730	user1886	user4618	user4226	user835	user1520	user4979					item0	3	0
+731	user1886	user4618	user4226	user835	user1520	user4979					item1	5	0
+732	user1886	user4618	user4226	user835	user1520	user4979					item2	6	0
+733	user1886	user4618	user4226	user835	user1520	user4979					item3	1	1
+734	user1886	user4618	user4226	user835	user1520	user4979					item4	4	0
+735	user1886	user4618	user4226	user835	user1520	user4979					item5	7	0
+736	user1886	user4618	user4226	user835	user1520	user4979					item6	2	0
+737	user1886	user4618	user4226	user835	user1520	user4979					item7	8	0
+738	user1886	user4618	user4226	user835	user1520	user4979					item8	9	0
+739	user1886	user4618	user4226	user835	user1520	user4979					item9	10	0
+740	user1396	user2833	user993	user399	user532	user4436	user945	user4594			item0	2	0
+741	user1396	user2833	user993	user399	user532	user4436	user945	user4594			item1	5	0
+742	user1396	user2833	user993	user399	user532	user4436	user945	user4594			item2	6	0
+743	user1396	user2833	user993	user399	user532	user4436	user945	user4594			item3	3	0
+744	user1396	user2833	user993	user399	user532	user4436	user945	user4594			item4	7	0
+745	user1396	user2833	user993	user399	user532	user4436	user945	user4594			item5	8	0
+746	user1396	user2833	user993	user399	user532	user4436	user945	user4594			item6	1	1
+747	user1396	user2833	user993	user399	user532	user4436	user945	user4594			item7	9	0
+748	user1396	user2833	user993	user399	user532	user4436	user945	user4594			item8	4	0
+749	user1396	user2833	user993	user399	user532	user4436	user945	user4594			item9	10	0
+750	user3582	user1179	user295	user3506	user2677	user708	user225	user3681	user1091		item0	3	0
+751	user3582	user1179	user295	user3506	user2677	user708	user225	user3681	user1091		item1	7	0
+752	user3582	user1179	user295	user3506	user2677	user708	user225	user3681	user1091		item2	2	0
+753	user3582	user1179	user295	user3506	user2677	user708	user225	user3681	user1091		item3	4	0
+754	user3582	user1179	user295	user3506	user2677	user708	user225	user3681	user1091		item4	8	0
+755	user3582	user1179	user295	user3506	user2677	user708	user225	user3681	user1091		item5	9	0
+756	user3582	user1179	user295	user3506	user2677	user708	user225	user3681	user1091		item6	1	1
+757	user3582	user1179	user295	user3506	user2677	user708	user225	user3681	user1091		item7	10	0
+758	user3582	user1179	user295	user3506	user2677	user708	user225	user3681	user1091		item8	5	0
+759	user3582	user1179	user295	user3506	user2677	user708	user225	user3681	user1091		item9	6	0
+760	user4021	user4774									item0	3	0
+761	user4021	user4774									item1	4	0
+762	user4021	user4774									item2	1	1
+763	user4021	user4774									item3	5	0
+764	user4021	user4774									item4	6	0
+765	user4021	user4774									item5	7	0
+766	user4021	user4774									item6	2	0
+767	user4021	user4774									item7	8	0
+768	user4021	user4774									item8	9	0
+769	user4021	user4774									item9	10	0
+770	user4666	user2327	user3767	user2802							item0	2	0
+771	user4666	user2327	user3767	user2802							item1	4	0
+772	user4666	user2327	user3767	user2802							item2	5	0
+773	user4666	user2327	user3767	user2802							item3	1	1
+774	user4666	user2327	user3767	user2802							item4	6	0
+775	user4666	user2327	user3767	user2802							item5	3	0
+776	user4666	user2327	user3767	user2802							item6	7	0
+777	user4666	user2327	user3767	user2802							item7	8	0
+778	user4666	user2327	user3767	user2802							item8	9	0
+779	user4666	user2327	user3767	user2802							item9	10	0
+780	user3091	user4									item0	3	0
+781	user3091	user4									item1	1	1
+782	user3091	user4									item2	4	0
+783	user3091	user4									item3	2	0
+784	user3091	user4									item4	5	0
+785	user3091	user4									item5	6	0
+786	user3091	user4									item6	7	0
+787	user3091	user4									item7	8	0
+788	user3091	user4									item8	9	0
+789	user3091	user4									item9	10	0
+790	user2545	user673									item0	3	0
+791	user2545	user673									item1	4	0
+792	user2545	user673									item2	5	0
+793	user2545	user673									item3	1	1
+794	user2545	user673									item4	6	0
+795	user2545	user673									item5	7	0
+796	user2545	user673									item6	8	0
+797	user2545	user673									item7	9	0
+798	user2545	user673									item8	10	0
+799	user2545	user673									item9	2	0
+800	user4119	user1086	user2792	user3905	user4044						item0	1	1
+801	user4119	user1086	user2792	user3905	user4044						item1	5	0
+802	user4119	user1086	user2792	user3905	user4044						item2	6	0
+803	user4119	user1086	user2792	user3905	user4044						item3	2	0
+804	user4119	user1086	user2792	user3905	user4044						item4	7	0
+805	user4119	user1086	user2792	user3905	user4044						item5	3	0
+806	user4119	user1086	user2792	user3905	user4044						item6	8	0
+807	user4119	user1086	user2792	user3905	user4044						item7	9	0
+808	user4119	user1086	user2792	user3905	user4044						item8	10	0
+809	user4119	user1086	user2792	user3905	user4044						item9	4	0
+810	user3973	user4354	user4539	user4054	user1250						item0	4	0
+811	user3973	user4354	user4539	user4054	user1250						item1	5	0
+812	user3973	user4354	user4539	user4054	user1250						item2	6	0
+813	user3973	user4354	user4539	user4054	user1250						item3	2	0
+814	user3973	user4354	user4539	user4054	user1250						item4	7	0
+815	user3973	user4354	user4539	user4054	user1250						item5	3	0
+816	user3973	user4354	user4539	user4054	user1250						item6	1	1
+817	user3973	user4354	user4539	user4054	user1250						item7	8	0
+818	user3973	user4354	user4539	user4054	user1250						item8	9	0
+819	user3973	user4354	user4539	user4054	user1250						item9	10	0
+820	user4817	user101	user2197	user3787	user42	user1593	user2261				item0	7	0
+821	user4817	user101	user2197	user3787	user42	user1593	user2261				item1	8	0
+822	user4817	user101	user2197	user3787	user42	user1593	user2261				item2	9	0
+823	user4817	user101	user2197	user3787	user42	user1593	user2261				item3	2	0
+824	user4817	user101	user2197	user3787	user42	user1593	user2261				item4	1	1
+825	user4817	user101	user2197	user3787	user42	user1593	user2261				item5	3	0
+826	user4817	user101	user2197	user3787	user42	user1593	user2261				item6	4	0
+827	user4817	user101	user2197	user3787	user42	user1593	user2261				item7	5	0
+828	user4817	user101	user2197	user3787	user42	user1593	user2261				item8	10	0
+829	user4817	user101	user2197	user3787	user42	user1593	user2261				item9	6	0
+830	user2784	user3790	user2861								item0	4	0
+831	user2784	user3790	user2861								item1	5	0
+832	user2784	user3790	user2861								item2	6	0
+833	user2784	user3790	user2861								item3	7	0
+834	user2784	user3790	user2861								item4	1	1
+835	user2784	user3790	user2861								item5	2	0
+836	user2784	user3790	user2861								item6	3	0
+837	user2784	user3790	user2861								item7	8	0
+838	user2784	user3790	user2861								item8	9	0
+839	user2784	user3790	user2861								item9	10	0
+840	user4895	user4351	user4683	user584	user4525	user4487					item0	1	1
+841	user4895	user4351	user4683	user584	user4525	user4487					item1	2	0
+842	user4895	user4351	user4683	user584	user4525	user4487					item2	3	0
+843	user4895	user4351	user4683	user584	user4525	user4487					item3	4	0
+844	user4895	user4351	user4683	user584	user4525	user4487					item4	7	0
+845	user4895	user4351	user4683	user584	user4525	user4487					item5	5	0
+846	user4895	user4351	user4683	user584	user4525	user4487					item6	8	0
+847	user4895	user4351	user4683	user584	user4525	user4487					item7	9	0
+848	user4895	user4351	user4683	user584	user4525	user4487					item8	6	0
+849	user4895	user4351	user4683	user584	user4525	user4487					item9	10	0
+850	user4888	user1106									item0	1	1
+851	user4888	user1106									item1	3	0
+852	user4888	user1106									item2	4	0
+853	user4888	user1106									item3	5	0
+854	user4888	user1106									item4	6	0
+855	user4888	user1106									item5	2	0
+856	user4888	user1106									item6	7	0
+857	user4888	user1106									item7	8	0
+858	user4888	user1106									item8	9	0
+859	user4888	user1106									item9	10	0
+860	user2689	user527									item0	3	0
+861	user2689	user527									item1	1	1
+862	user2689	user527									item2	2	0
+863	user2689	user527									item3	4	0
+864	user2689	user527									item4	5	0
+865	user2689	user527									item5	6	0
+866	user2689	user527									item6	7	0
+867	user2689	user527									item7	8	0
+868	user2689	user527									item8	9	0
+869	user2689	user527									item9	10	0
+870	user4069	user1555	user527	user3119	user3065						item0	5	0
+871	user4069	user1555	user527	user3119	user3065						item1	2	0
+872	user4069	user1555	user527	user3119	user3065						item2	6	0
+873	user4069	user1555	user527	user3119	user3065						item3	7	0
+874	user4069	user1555	user527	user3119	user3065						item4	3	0
+875	user4069	user1555	user527	user3119	user3065						item5	1	1
+876	user4069	user1555	user527	user3119	user3065						item6	4	0
+877	user4069	user1555	user527	user3119	user3065						item7	8	0
+878	user4069	user1555	user527	user3119	user3065						item8	9	0
+879	user4069	user1555	user527	user3119	user3065						item9	10	0
+880	user3198	user2039	user1950	user4929	user1511	user544	user3767				item0	3	0
+881	user3198	user2039	user1950	user4929	user1511	user544	user3767				item1	6	0
+882	user3198	user2039	user1950	user4929	user1511	user544	user3767				item2	7	0
+883	user3198	user2039	user1950	user4929	user1511	user544	user3767				item3	1	1
+884	user3198	user2039	user1950	user4929	user1511	user544	user3767				item4	8	0
+885	user3198	user2039	user1950	user4929	user1511	user544	user3767				item5	2	0
+886	user3198	user2039	user1950	user4929	user1511	user544	user3767				item6	4	0
+887	user3198	user2039	user1950	user4929	user1511	user544	user3767				item7	9	0
+888	user3198	user2039	user1950	user4929	user1511	user544	user3767				item8	10	0
+889	user3198	user2039	user1950	user4929	user1511	user544	user3767				item9	5	0
+890	user899	user150	user551								item0	4	0
+891	user899	user150	user551								item1	5	0
+892	user899	user150	user551								item2	6	0
+893	user899	user150	user551								item3	7	0
+894	user899	user150	user551								item4	1	1
+895	user899	user150	user551								item5	2	0
+896	user899	user150	user551								item6	3	0
+897	user899	user150	user551								item7	8	0
+898	user899	user150	user551								item8	9	0
+899	user899	user150	user551								item9	10	0
+900	user3194	user3083									item0	3	0
+901	user3194	user3083									item1	4	0
+902	user3194	user3083									item2	5	0
+903	user3194	user3083									item3	1	1
+904	user3194	user3083									item4	6	0
+905	user3194	user3083									item5	7	0
+906	user3194	user3083									item6	2	0
+907	user3194	user3083									item7	8	0
+908	user3194	user3083									item8	9	0
+909	user3194	user3083									item9	10	0
+910	user1232	user2262	user1276	user1191	user2056	user1875	user4799	user4784	user3752	user483	item0	5	0
+911	user1232	user2262	user1276	user1191	user2056	user1875	user4799	user4784	user3752	user483	item1	3	0
+912	user1232	user2262	user1276	user1191	user2056	user1875	user4799	user4784	user3752	user483	item2	6	0
+913	user1232	user2262	user1276	user1191	user2056	user1875	user4799	user4784	user3752	user483	item3	7	0
+914	user1232	user2262	user1276	user1191	user2056	user1875	user4799	user4784	user3752	user483	item4	2	0
+915	user1232	user2262	user1276	user1191	user2056	user1875	user4799	user4784	user3752	user483	item5	4	0
+916	user1232	user2262	user1276	user1191	user2056	user1875	user4799	user4784	user3752	user483	item6	1	1
+917	user1232	user2262	user1276	user1191	user2056	user1875	user4799	user4784	user3752	user483	item7	8	0
+918	user1232	user2262	user1276	user1191	user2056	user1875	user4799	user4784	user3752	user483	item8	9	0
+919	user1232	user2262	user1276	user1191	user2056	user1875	user4799	user4784	user3752	user483	item9	10	0
+920	user4162	user77	user531	user1858	user1356	user1561	user1670	user551	user4754	user4020	item0	6	0
+921	user4162	user77	user531	user1858	user1356	user1561	user1670	user551	user4754	user4020	item1	7	0
+922	user4162	user77	user531	user1858	user1356	user1561	user1670	user551	user4754	user4020	item2	8	0
+923	user4162	user77	user531	user1858	user1356	user1561	user1670	user551	user4754	user4020	item3	2	0
+924	user4162	user77	user531	user1858	user1356	user1561	user1670	user551	user4754	user4020	item4	3	0
+925	user4162	user77	user531	user1858	user1356	user1561	user1670	user551	user4754	user4020	item5	9	0
+926	user4162	user77	user531	user1858	user1356	user1561	user1670	user551	user4754	user4020	item6	1	1
+927	user4162	user77	user531	user1858	user1356	user1561	user1670	user551	user4754	user4020	item7	4	0
+928	user4162	user77	user531	user1858	user1356	user1561	user1670	user551	user4754	user4020	item8	10	0
+929	user4162	user77	user531	user1858	user1356	user1561	user1670	user551	user4754	user4020	item9	5	0
+930	user1889	user1257									item0	3	0
+931	user1889	user1257									item1	4	0
+932	user1889	user1257									item2	5	0
+933	user1889	user1257									item3	1	1
+934	user1889	user1257									item4	2	0
+935	user1889	user1257									item5	6	0
+936	user1889	user1257									item6	7	0
+937	user1889	user1257									item7	8	0
+938	user1889	user1257									item8	9	0
+939	user1889	user1257									item9	10	0
+940	user4808	user732	user1884	user147	user3708	user3029	user2808	user2951	user2647	user1141	item0	2	0
+941	user4808	user732	user1884	user147	user3708	user3029	user2808	user2951	user2647	user1141	item1	6	0
+942	user4808	user732	user1884	user147	user3708	user3029	user2808	user2951	user2647	user1141	item2	5	0
+943	user4808	user732	user1884	user147	user3708	user3029	user2808	user2951	user2647	user1141	item3	7	0
+944	user4808	user732	user1884	user147	user3708	user3029	user2808	user2951	user2647	user1141	item4	3	0
+945	user4808	user732	user1884	user147	user3708	user3029	user2808	user2951	user2647	user1141	item5	8	0
+946	user4808	user732	user1884	user147	user3708	user3029	user2808	user2951	user2647	user1141	item6	4	0
+947	user4808	user732	user1884	user147	user3708	user3029	user2808	user2951	user2647	user1141	item7	9	0
+948	user4808	user732	user1884	user147	user3708	user3029	user2808	user2951	user2647	user1141	item8	10	0
+949	user4808	user732	user1884	user147	user3708	user3029	user2808	user2951	user2647	user1141	item9	1	1
+950	user4747	user619									item0	3	0
+951	user4747	user619									item1	4	0
+952	user4747	user619									item2	1	1
+953	user4747	user619									item3	5	0
+954	user4747	user619									item4	6	0
+955	user4747	user619									item5	7	0
+956	user4747	user619									item6	2	0
+957	user4747	user619									item7	8	0
+958	user4747	user619									item8	9	0
+959	user4747	user619									item9	10	0
+960	user1063	user4809	user504	user619	user3874	user1023	user3047	user124			item0	6	0
+961	user1063	user4809	user504	user619	user3874	user1023	user3047	user124			item1	7	0
+962	user1063	user4809	user504	user619	user3874	user1023	user3047	user124			item2	2	0
+963	user1063	user4809	user504	user619	user3874	user1023	user3047	user124			item3	1	1
+964	user1063	user4809	user504	user619	user3874	user1023	user3047	user124			item4	8	0
+965	user1063	user4809	user504	user619	user3874	user1023	user3047	user124			item5	3	0
+966	user1063	user4809	user504	user619	user3874	user1023	user3047	user124			item6	4	0
+967	user1063	user4809	user504	user619	user3874	user1023	user3047	user124			item7	5	0
+968	user1063	user4809	user504	user619	user3874	user1023	user3047	user124			item8	9	0
+969	user1063	user4809	user504	user619	user3874	user1023	user3047	user124			item9	10	0
+970	user471	user3402	user4755	user864	user2290	user3275					item0	5	0
+971	user471	user3402	user4755	user864	user2290	user3275					item1	2	0
+972	user471	user3402	user4755	user864	user2290	user3275					item2	6	0
+973	user471	user3402	user4755	user864	user2290	user3275					item3	3	0
+974	user471	user3402	user4755	user864	user2290	user3275					item4	7	0
+975	user471	user3402	user4755	user864	user2290	user3275					item5	8	0
+976	user471	user3402	user4755	user864	user2290	user3275					item6	1	1
+977	user471	user3402	user4755	user864	user2290	user3275					item7	9	0
+978	user471	user3402	user4755	user864	user2290	user3275					item8	10	0
+979	user471	user3402	user4755	user864	user2290	user3275					item9	4	0
+980	user4679	user4450									item0	3	0
+981	user4679	user4450									item1	4	0
+982	user4679	user4450									item2	5	0
+983	user4679	user4450									item3	6	0
+984	user4679	user4450									item4	7	0
+985	user4679	user4450									item5	8	0
+986	user4679	user4450									item6	1	1
+987	user4679	user4450									item7	9	0
+988	user4679	user4450									item8	2	0
+989	user4679	user4450									item9	10	0
+990	user4835	user3357	user2235	user1751	user3496	user3481	user485	user1806	user2262	user3970	item0	2	0
+991	user4835	user3357	user2235	user1751	user3496	user3481	user485	user1806	user2262	user3970	item1	6	0
+992	user4835	user3357	user2235	user1751	user3496	user3481	user485	user1806	user2262	user3970	item2	7	0
+993	user4835	user3357	user2235	user1751	user3496	user3481	user485	user1806	user2262	user3970	item3	1	1
+994	user4835	user3357	user2235	user1751	user3496	user3481	user485	user1806	user2262	user3970	item4	8	0
+995	user4835	user3357	user2235	user1751	user3496	user3481	user485	user1806	user2262	user3970	item5	3	0
+996	user4835	user3357	user2235	user1751	user3496	user3481	user485	user1806	user2262	user3970	item6	4	0
+997	user4835	user3357	user2235	user1751	user3496	user3481	user485	user1806	user2262	user3970	item7	9	0
+998	user4835	user3357	user2235	user1751	user3496	user3481	user485	user1806	user2262	user3970	item8	5	0
+999	user4835	user3357	user2235	user1751	user3496	user3481	user485	user1806	user2262	user3970	item9	10	0
+1000	user4438	user375									item0	3	0
+1001	user4438	user375									item1	4	0
+1002	user4438	user375									item2	5	0
+1003	user4438	user375									item3	6	0
+1004	user4438	user375									item4	7	0
+1005	user4438	user375									item5	8	0
+1006	user4438	user375									item6	1	1
+1007	user4438	user375									item7	9	0
+1008	user4438	user375									item8	10	0
+1009	user4438	user375									item9	2	0
+1010	user2369	user3873									item0	3	0
+1011	user2369	user3873									item1	4	0
+1012	user2369	user3873									item2	5	0
+1013	user2369	user3873									item3	1	1
+1014	user2369	user3873									item4	6	0
+1015	user2369	user3873									item5	2	0
+1016	user2369	user3873									item6	7	0
+1017	user2369	user3873									item7	8	0
+1018	user2369	user3873									item8	9	0
+1019	user2369	user3873									item9	10	0
+1020	user423	user4904	user3311	user2140	user1672	user4658	user4265	user76	user2623		item0	2	0
+1021	user423	user4904	user3311	user2140	user1672	user4658	user4265	user76	user2623		item1	5	0
+1022	user423	user4904	user3311	user2140	user1672	user4658	user4265	user76	user2623		item2	6	0
+1023	user423	user4904	user3311	user2140	user1672	user4658	user4265	user76	user2623		item3	3	0
+1024	user423	user4904	user3311	user2140	user1672	user4658	user4265	user76	user2623		item4	7	0
+1025	user423	user4904	user3311	user2140	user1672	user4658	user4265	user76	user2623		item5	4	0
+1026	user423	user4904	user3311	user2140	user1672	user4658	user4265	user76	user2623		item6	1	1
+1027	user423	user4904	user3311	user2140	user1672	user4658	user4265	user76	user2623		item7	8	0
+1028	user423	user4904	user3311	user2140	user1672	user4658	user4265	user76	user2623		item8	9	0
+1029	user423	user4904	user3311	user2140	user1672	user4658	user4265	user76	user2623		item9	10	0
+1030	user2066	user4862	user3567	user1475	user3036	user1428	user4969				item0	2	0
+1031	user2066	user4862	user3567	user1475	user3036	user1428	user4969				item1	3	0
+1032	user2066	user4862	user3567	user1475	user3036	user1428	user4969				item2	6	0
+1033	user2066	user4862	user3567	user1475	user3036	user1428	user4969				item3	7	0
+1034	user2066	user4862	user3567	user1475	user3036	user1428	user4969				item4	4	0
+1035	user2066	user4862	user3567	user1475	user3036	user1428	user4969				item5	8	0
+1036	user2066	user4862	user3567	user1475	user3036	user1428	user4969				item6	1	1
+1037	user2066	user4862	user3567	user1475	user3036	user1428	user4969				item7	9	0
+1038	user2066	user4862	user3567	user1475	user3036	user1428	user4969				item8	5	0
+1039	user2066	user4862	user3567	user1475	user3036	user1428	user4969				item9	10	0
+1040	user1664	user527	user2013								item0	1	1
+1041	user1664	user527	user2013								item1	2	0
+1042	user1664	user527	user2013								item2	4	0
+1043	user1664	user527	user2013								item3	5	0
+1044	user1664	user527	user2013								item4	6	0
+1045	user1664	user527	user2013								item5	3	0
+1046	user1664	user527	user2013								item6	7	0
+1047	user1664	user527	user2013								item7	8	0
+1048	user1664	user527	user2013								item8	9	0
+1049	user1664	user527	user2013								item9	10	0
+1050	user1685	user932	user4002	user2538	user2569	user860					item0	2	0
+1051	user1685	user932	user4002	user2538	user2569	user860					item1	6	0
+1052	user1685	user932	user4002	user2538	user2569	user860					item2	3	0
+1053	user1685	user932	user4002	user2538	user2569	user860					item3	1	1
+1054	user1685	user932	user4002	user2538	user2569	user860					item4	7	0
+1055	user1685	user932	user4002	user2538	user2569	user860					item5	8	0
+1056	user1685	user932	user4002	user2538	user2569	user860					item6	4	0
+1057	user1685	user932	user4002	user2538	user2569	user860					item7	9	0
+1058	user1685	user932	user4002	user2538	user2569	user860					item8	5	0
+1059	user1685	user932	user4002	user2538	user2569	user860					item9	10	0
+1060	user2057	user1273	user3702	user2118	user667	user4671	user536				item0	2	0
+1061	user2057	user1273	user3702	user2118	user667	user4671	user536				item1	6	0
+1062	user2057	user1273	user3702	user2118	user667	user4671	user536				item2	7	0
+1063	user2057	user1273	user3702	user2118	user667	user4671	user536				item3	8	0
+1064	user2057	user1273	user3702	user2118	user667	user4671	user536				item4	3	0
+1065	user2057	user1273	user3702	user2118	user667	user4671	user536				item5	4	0
+1066	user2057	user1273	user3702	user2118	user667	user4671	user536				item6	1	1
+1067	user2057	user1273	user3702	user2118	user667	user4671	user536				item7	9	0
+1068	user2057	user1273	user3702	user2118	user667	user4671	user536				item8	10	0
+1069	user2057	user1273	user3702	user2118	user667	user4671	user536				item9	5	0
+1070	user2575	user3835	user4746	user3541	user66	user2932	user3576	user19	user1427	user2893	item0	2	0
+1071	user2575	user3835	user4746	user3541	user66	user2932	user3576	user19	user1427	user2893	item1	5	0
+1072	user2575	user3835	user4746	user3541	user66	user2932	user3576	user19	user1427	user2893	item2	6	0
+1073	user2575	user3835	user4746	user3541	user66	user2932	user3576	user19	user1427	user2893	item3	1	1
+1074	user2575	user3835	user4746	user3541	user66	user2932	user3576	user19	user1427	user2893	item4	3	0
+1075	user2575	user3835	user4746	user3541	user66	user2932	user3576	user19	user1427	user2893	item5	7	0
+1076	user2575	user3835	user4746	user3541	user66	user2932	user3576	user19	user1427	user2893	item6	8	0
+1077	user2575	user3835	user4746	user3541	user66	user2932	user3576	user19	user1427	user2893	item7	9	0
+1078	user2575	user3835	user4746	user3541	user66	user2932	user3576	user19	user1427	user2893	item8	4	0
+1079	user2575	user3835	user4746	user3541	user66	user2932	user3576	user19	user1427	user2893	item9	10	0
+1080	user3628	user1604	user519	user2192	user2687	user1462	user1575	user1020	user2679		item0	5	0
+1081	user3628	user1604	user519	user2192	user2687	user1462	user1575	user1020	user2679		item1	3	0
+1082	user3628	user1604	user519	user2192	user2687	user1462	user1575	user1020	user2679		item2	6	0
+1083	user3628	user1604	user519	user2192	user2687	user1462	user1575	user1020	user2679		item3	1	1
+1084	user3628	user1604	user519	user2192	user2687	user1462	user1575	user1020	user2679		item4	4	0
+1085	user3628	user1604	user519	user2192	user2687	user1462	user1575	user1020	user2679		item5	7	0
+1086	user3628	user1604	user519	user2192	user2687	user1462	user1575	user1020	user2679		item6	8	0
+1087	user3628	user1604	user519	user2192	user2687	user1462	user1575	user1020	user2679		item7	9	0
+1088	user3628	user1604	user519	user2192	user2687	user1462	user1575	user1020	user2679		item8	10	0
+1089	user3628	user1604	user519	user2192	user2687	user1462	user1575	user1020	user2679		item9	2	0
+1090	user1193	user2386	user373	user3983	user4268						item0	5	0
+1091	user1193	user2386	user373	user3983	user4268						item1	2	0
+1092	user1193	user2386	user373	user3983	user4268						item2	6	0
+1093	user1193	user2386	user373	user3983	user4268						item3	7	0
+1094	user1193	user2386	user373	user3983	user4268						item4	3	0
+1095	user1193	user2386	user373	user3983	user4268						item5	4	0
+1096	user1193	user2386	user373	user3983	user4268						item6	1	1
+1097	user1193	user2386	user373	user3983	user4268						item7	8	0
+1098	user1193	user2386	user373	user3983	user4268						item8	9	0
+1099	user1193	user2386	user373	user3983	user4268						item9	10	0
+1100	user489	user4090	user3908	user1216	user3297	user2475	user1596				item0	3	0
+1101	user489	user4090	user3908	user1216	user3297	user2475	user1596				item1	6	0
+1102	user489	user4090	user3908	user1216	user3297	user2475	user1596				item2	7	0
+1103	user489	user4090	user3908	user1216	user3297	user2475	user1596				item3	4	0
+1104	user489	user4090	user3908	user1216	user3297	user2475	user1596				item4	5	0
+1105	user489	user4090	user3908	user1216	user3297	user2475	user1596				item5	1	1
+1106	user489	user4090	user3908	user1216	user3297	user2475	user1596				item6	2	0
+1107	user489	user4090	user3908	user1216	user3297	user2475	user1596				item7	8	0
+1108	user489	user4090	user3908	user1216	user3297	user2475	user1596				item8	9	0
+1109	user489	user4090	user3908	user1216	user3297	user2475	user1596				item9	10	0
+1110	user1308	user4450	user222	user1877							item0	3	0
+1111	user1308	user4450	user222	user1877							item1	4	0
+1112	user1308	user4450	user222	user1877							item2	5	0
+1113	user1308	user4450	user222	user1877							item3	6	0
+1114	user1308	user4450	user222	user1877							item4	7	0
+1115	user1308	user4450	user222	user1877							item5	8	0
+1116	user1308	user4450	user222	user1877							item6	1	1
+1117	user1308	user4450	user222	user1877							item7	9	0
+1118	user1308	user4450	user222	user1877							item8	2	0
+1119	user1308	user4450	user222	user1877							item9	10	0
+1120	user4219	user2862	user4632	user3056	user1504	user1043	user3300	user2957	user496	user3858	item0	7	0
+1121	user4219	user2862	user4632	user3056	user1504	user1043	user3300	user2957	user496	user3858	item1	8	0
+1122	user4219	user2862	user4632	user3056	user1504	user1043	user3300	user2957	user496	user3858	item2	3	0
+1123	user4219	user2862	user4632	user3056	user1504	user1043	user3300	user2957	user496	user3858	item3	1	1
+1124	user4219	user2862	user4632	user3056	user1504	user1043	user3300	user2957	user496	user3858	item4	2	0
+1125	user4219	user2862	user4632	user3056	user1504	user1043	user3300	user2957	user496	user3858	item5	4	0
+1126	user4219	user2862	user4632	user3056	user1504	user1043	user3300	user2957	user496	user3858	item6	5	0
+1127	user4219	user2862	user4632	user3056	user1504	user1043	user3300	user2957	user496	user3858	item7	6	0
+1128	user4219	user2862	user4632	user3056	user1504	user1043	user3300	user2957	user496	user3858	item8	9	0
+1129	user4219	user2862	user4632	user3056	user1504	user1043	user3300	user2957	user496	user3858	item9	10	0
+1130	user307	user1974	user2910	user17	user2128	user1104					item0	2	0
+1131	user307	user1974	user2910	user17	user2128	user1104					item1	4	0
+1132	user307	user1974	user2910	user17	user2128	user1104					item2	3	0
+1133	user307	user1974	user2910	user17	user2128	user1104					item3	1	1
+1134	user307	user1974	user2910	user17	user2128	user1104					item4	5	0
+1135	user307	user1974	user2910	user17	user2128	user1104					item5	6	0
+1136	user307	user1974	user2910	user17	user2128	user1104					item6	7	0
+1137	user307	user1974	user2910	user17	user2128	user1104					item7	8	0
+1138	user307	user1974	user2910	user17	user2128	user1104					item8	9	0
+1139	user307	user1974	user2910	user17	user2128	user1104					item9	10	0
+1140	user4706	user3119	user2173	user335	user4790						item0	4	0
+1141	user4706	user3119	user2173	user335	user4790						item1	5	0
+1142	user4706	user3119	user2173	user335	user4790						item2	6	0
+1143	user4706	user3119	user2173	user335	user4790						item3	1	1
+1144	user4706	user3119	user2173	user335	user4790						item4	7	0
+1145	user4706	user3119	user2173	user335	user4790						item5	3	0
+1146	user4706	user3119	user2173	user335	user4790						item6	2	0
+1147	user4706	user3119	user2173	user335	user4790						item7	8	0
+1148	user4706	user3119	user2173	user335	user4790						item8	9	0
+1149	user4706	user3119	user2173	user335	user4790						item9	10	0
+1150	user2885	user1017	user3242	user1836	user4118	user3254	user2056	user175			item0	2	0
+1151	user2885	user1017	user3242	user1836	user4118	user3254	user2056	user175			item1	4	0
+1152	user2885	user1017	user3242	user1836	user4118	user3254	user2056	user175			item2	5	0
+1153	user2885	user1017	user3242	user1836	user4118	user3254	user2056	user175			item3	6	0
+1154	user2885	user1017	user3242	user1836	user4118	user3254	user2056	user175			item4	7	0
+1155	user2885	user1017	user3242	user1836	user4118	user3254	user2056	user175			item5	8	0
+1156	user2885	user1017	user3242	user1836	user4118	user3254	user2056	user175			item6	1	1
+1157	user2885	user1017	user3242	user1836	user4118	user3254	user2056	user175			item7	9	0
+1158	user2885	user1017	user3242	user1836	user4118	user3254	user2056	user175			item8	3	0
+1159	user2885	user1017	user3242	user1836	user4118	user3254	user2056	user175			item9	10	0
+1160	user1004	user2922	user2529	user4994	user3361						item0	4	0
+1161	user1004	user2922	user2529	user4994	user3361						item1	5	0
+1162	user1004	user2922	user2529	user4994	user3361						item2	6	0
+1163	user1004	user2922	user2529	user4994	user3361						item3	2	0
+1164	user1004	user2922	user2529	user4994	user3361						item4	7	0
+1165	user1004	user2922	user2529	user4994	user3361						item5	8	0
+1166	user1004	user2922	user2529	user4994	user3361						item6	3	0
+1167	user1004	user2922	user2529	user4994	user3361						item7	9	0
+1168	user1004	user2922	user2529	user4994	user3361						item8	10	0
+1169	user1004	user2922	user2529	user4994	user3361						item9	1	1
+1170	user4534	user3708	user454	user3872							item0	4	0
+1171	user4534	user3708	user454	user3872							item1	5	0
+1172	user4534	user3708	user454	user3872							item2	6	0
+1173	user4534	user3708	user454	user3872							item3	2	0
+1174	user4534	user3708	user454	user3872							item4	1	1
+1175	user4534	user3708	user454	user3872							item5	7	0
+1176	user4534	user3708	user454	user3872							item6	8	0
+1177	user4534	user3708	user454	user3872							item7	9	0
+1178	user4534	user3708	user454	user3872							item8	10	0
+1179	user4534	user3708	user454	user3872							item9	3	0
+1180	user1750	user162									item0	3	0
+1181	user1750	user162									item1	4	0
+1182	user1750	user162									item2	5	0
+1183	user1750	user162									item3	6	0
+1184	user1750	user162									item4	7	0
+1185	user1750	user162									item5	8	0
+1186	user1750	user162									item6	1	1
+1187	user1750	user162									item7	9	0
+1188	user1750	user162									item8	2	0
+1189	user1750	user162									item9	10	0
+1190	user3422	user333	user310	user464	user4073	user4003	user4439				item0	2	0
+1191	user3422	user333	user310	user464	user4073	user4003	user4439				item1	5	0
+1192	user3422	user333	user310	user464	user4073	user4003	user4439				item2	3	0
+1193	user3422	user333	user310	user464	user4073	user4003	user4439				item3	4	0
+1194	user3422	user333	user310	user464	user4073	user4003	user4439				item4	6	0
+1195	user3422	user333	user310	user464	user4073	user4003	user4439				item5	7	0
+1196	user3422	user333	user310	user464	user4073	user4003	user4439				item6	1	1
+1197	user3422	user333	user310	user464	user4073	user4003	user4439				item7	8	0
+1198	user3422	user333	user310	user464	user4073	user4003	user4439				item8	9	0
+1199	user3422	user333	user310	user464	user4073	user4003	user4439				item9	10	0
+1200	user175	user908	user776	user2948	user3675						item0	6	0
+1201	user175	user908	user776	user2948	user3675						item1	7	0
+1202	user175	user908	user776	user2948	user3675						item2	8	0
+1203	user175	user908	user776	user2948	user3675						item3	1	1
+1204	user175	user908	user776	user2948	user3675						item4	2	0
+1205	user175	user908	user776	user2948	user3675						item5	9	0
+1206	user175	user908	user776	user2948	user3675						item6	3	0
+1207	user175	user908	user776	user2948	user3675						item7	10	0
+1208	user175	user908	user776	user2948	user3675						item8	4	0
+1209	user175	user908	user776	user2948	user3675						item9	5	0
+1210	user285	user4128	user1987	user3825	user4862	user3520	user2397	user1577	user1111	user3367	item0	1	1
+1211	user285	user4128	user1987	user3825	user4862	user3520	user2397	user1577	user1111	user3367	item1	4	0
+1212	user285	user4128	user1987	user3825	user4862	user3520	user2397	user1577	user1111	user3367	item2	8	0
+1213	user285	user4128	user1987	user3825	user4862	user3520	user2397	user1577	user1111	user3367	item3	5	0
+1214	user285	user4128	user1987	user3825	user4862	user3520	user2397	user1577	user1111	user3367	item4	2	0
+1215	user285	user4128	user1987	user3825	user4862	user3520	user2397	user1577	user1111	user3367	item5	3	0
+1216	user285	user4128	user1987	user3825	user4862	user3520	user2397	user1577	user1111	user3367	item6	6	0
+1217	user285	user4128	user1987	user3825	user4862	user3520	user2397	user1577	user1111	user3367	item7	9	0
+1218	user285	user4128	user1987	user3825	user4862	user3520	user2397	user1577	user1111	user3367	item8	7	0
+1219	user285	user4128	user1987	user3825	user4862	user3520	user2397	user1577	user1111	user3367	item9	10	0
+1220	user3446	user4434	user4117	user4443							item0	1	1
+1221	user3446	user4434	user4117	user4443							item1	4	0
+1222	user3446	user4434	user4117	user4443							item2	5	0
+1223	user3446	user4434	user4117	user4443							item3	6	0
+1224	user3446	user4434	user4117	user4443							item4	2	0
+1225	user3446	user4434	user4117	user4443							item5	7	0
+1226	user3446	user4434	user4117	user4443							item6	8	0
+1227	user3446	user4434	user4117	user4443							item7	9	0
+1228	user3446	user4434	user4117	user4443							item8	10	0
+1229	user3446	user4434	user4117	user4443							item9	3	0
+1230	user362	user3119	user670	user4265	user3211	user3907	user652				item0	3	0
+1231	user362	user3119	user670	user4265	user3211	user3907	user652				item1	5	0
+1232	user362	user3119	user670	user4265	user3211	user3907	user652				item2	6	0
+1233	user362	user3119	user670	user4265	user3211	user3907	user652				item3	1	1
+1234	user362	user3119	user670	user4265	user3211	user3907	user652				item4	7	0
+1235	user362	user3119	user670	user4265	user3211	user3907	user652				item5	4	0
+1236	user362	user3119	user670	user4265	user3211	user3907	user652				item6	2	0
+1237	user362	user3119	user670	user4265	user3211	user3907	user652				item7	8	0
+1238	user362	user3119	user670	user4265	user3211	user3907	user652				item8	9	0
+1239	user362	user3119	user670	user4265	user3211	user3907	user652				item9	10	0
+1240	user3487	user333									item0	1	1
+1241	user3487	user333									item1	3	0
+1242	user3487	user333									item2	4	0
+1243	user3487	user333									item3	5	0
+1244	user3487	user333									item4	6	0
+1245	user3487	user333									item5	7	0
+1246	user3487	user333									item6	2	0
+1247	user3487	user333									item7	8	0
+1248	user3487	user333									item8	9	0
+1249	user3487	user333									item9	10	0
+1250	user3964	user900	user1860	user2710	user1696	user895	user4769	user2481	user4594		item0	7	0
+1251	user3964	user900	user1860	user2710	user1696	user895	user4769	user2481	user4594		item1	2	0
+1252	user3964	user900	user1860	user2710	user1696	user895	user4769	user2481	user4594		item2	8	0
+1253	user3964	user900	user1860	user2710	user1696	user895	user4769	user2481	user4594		item3	3	0
+1254	user3964	user900	user1860	user2710	user1696	user895	user4769	user2481	user4594		item4	9	0
+1255	user3964	user900	user1860	user2710	user1696	user895	user4769	user2481	user4594		item5	4	0
+1256	user3964	user900	user1860	user2710	user1696	user895	user4769	user2481	user4594		item6	1	1
+1257	user3964	user900	user1860	user2710	user1696	user895	user4769	user2481	user4594		item7	5	0
+1258	user3964	user900	user1860	user2710	user1696	user895	user4769	user2481	user4594		item8	10	0
+1259	user3964	user900	user1860	user2710	user1696	user895	user4769	user2481	user4594		item9	6	0
+1260	user3781	user4450	user567								item0	4	0
+1261	user3781	user4450	user567								item1	5	0
+1262	user3781	user4450	user567								item2	6	0
+1263	user3781	user4450	user567								item3	7	0
+1264	user3781	user4450	user567								item4	1	1
+1265	user3781	user4450	user567								item5	8	0
+1266	user3781	user4450	user567								item6	2	0
+1267	user3781	user4450	user567								item7	9	0
+1268	user3781	user4450	user567								item8	3	0
+1269	user3781	user4450	user567								item9	10	0
+1270	user4291	user2549	user4858	user274	user4910	user3203	user3054	user2423			item0	2	0
+1271	user4291	user2549	user4858	user274	user4910	user3203	user3054	user2423			item1	3	0
+1272	user4291	user2549	user4858	user274	user4910	user3203	user3054	user2423			item2	4	0
+1273	user4291	user2549	user4858	user274	user4910	user3203	user3054	user2423			item3	1	1
+1274	user4291	user2549	user4858	user274	user4910	user3203	user3054	user2423			item4	7	0
+1275	user4291	user2549	user4858	user274	user4910	user3203	user3054	user2423			item5	5	0
+1276	user4291	user2549	user4858	user274	user4910	user3203	user3054	user2423			item6	6	0
+1277	user4291	user2549	user4858	user274	user4910	user3203	user3054	user2423			item7	8	0
+1278	user4291	user2549	user4858	user274	user4910	user3203	user3054	user2423			item8	9	0
+1279	user4291	user2549	user4858	user274	user4910	user3203	user3054	user2423			item9	10	0
+1280	user37	user4470	user3945	user1008							item0	4	0
+1281	user37	user4470	user3945	user1008							item1	5	0
+1282	user37	user4470	user3945	user1008							item2	6	0
+1283	user37	user4470	user3945	user1008							item3	2	0
+1284	user37	user4470	user3945	user1008							item4	7	0
+1285	user37	user4470	user3945	user1008							item5	8	0
+1286	user37	user4470	user3945	user1008							item6	1	1
+1287	user37	user4470	user3945	user1008							item7	9	0
+1288	user37	user4470	user3945	user1008							item8	10	0
+1289	user37	user4470	user3945	user1008							item9	3	0
+1290	user4262	user218	user3301	user4276	user1734	user3715	user1386	user4358	user1572	user3539	item0	4	0
+1291	user4262	user218	user3301	user4276	user1734	user3715	user1386	user4358	user1572	user3539	item1	7	0
+1292	user4262	user218	user3301	user4276	user1734	user3715	user1386	user4358	user1572	user3539	item2	8	0
+1293	user4262	user218	user3301	user4276	user1734	user3715	user1386	user4358	user1572	user3539	item3	2	0
+1294	user4262	user218	user3301	user4276	user1734	user3715	user1386	user4358	user1572	user3539	item4	3	0
+1295	user4262	user218	user3301	user4276	user1734	user3715	user1386	user4358	user1572	user3539	item5	5	0
+1296	user4262	user218	user3301	user4276	user1734	user3715	user1386	user4358	user1572	user3539	item6	1	1
+1297	user4262	user218	user3301	user4276	user1734	user3715	user1386	user4358	user1572	user3539	item7	6	0
+1298	user4262	user218	user3301	user4276	user1734	user3715	user1386	user4358	user1572	user3539	item8	9	0
+1299	user4262	user218	user3301	user4276	user1734	user3715	user1386	user4358	user1572	user3539	item9	10	0
+1300	user2254	user2171	user769	user4200	user1363	user3438	user4284	user4	user2564		item0	6	0
+1301	user2254	user2171	user769	user4200	user1363	user3438	user4284	user4	user2564		item1	2	0
+1302	user2254	user2171	user769	user4200	user1363	user3438	user4284	user4	user2564		item2	4	0
+1303	user2254	user2171	user769	user4200	user1363	user3438	user4284	user4	user2564		item3	1	1
+1304	user2254	user2171	user769	user4200	user1363	user3438	user4284	user4	user2564		item4	7	0
+1305	user2254	user2171	user769	user4200	user1363	user3438	user4284	user4	user2564		item5	5	0
+1306	user2254	user2171	user769	user4200	user1363	user3438	user4284	user4	user2564		item6	8	0
+1307	user2254	user2171	user769	user4200	user1363	user3438	user4284	user4	user2564		item7	9	0
+1308	user2254	user2171	user769	user4200	user1363	user3438	user4284	user4	user2564		item8	10	0
+1309	user2254	user2171	user769	user4200	user1363	user3438	user4284	user4	user2564		item9	3	0
+1310	user3967	user1106	user1734	user3732	user2060						item0	1	1
+1311	user3967	user1106	user1734	user3732	user2060						item1	2	0
+1312	user3967	user1106	user1734	user3732	user2060						item2	6	0
+1313	user3967	user1106	user1734	user3732	user2060						item3	3	0
+1314	user3967	user1106	user1734	user3732	user2060						item4	7	0
+1315	user3967	user1106	user1734	user3732	user2060						item5	4	0
+1316	user3967	user1106	user1734	user3732	user2060						item6	5	0
+1317	user3967	user1106	user1734	user3732	user2060						item7	8	0
+1318	user3967	user1106	user1734	user3732	user2060						item8	9	0
+1319	user3967	user1106	user1734	user3732	user2060						item9	10	0
+1320	user4030	user379	user4722	user586	user4116	user4163	user3249	user205			item0	4	0
+1321	user4030	user379	user4722	user586	user4116	user4163	user3249	user205			item1	1	1
+1322	user4030	user379	user4722	user586	user4116	user4163	user3249	user205			item2	6	0
+1323	user4030	user379	user4722	user586	user4116	user4163	user3249	user205			item3	5	0
+1324	user4030	user379	user4722	user586	user4116	user4163	user3249	user205			item4	2	0
+1325	user4030	user379	user4722	user586	user4116	user4163	user3249	user205			item5	7	0
+1326	user4030	user379	user4722	user586	user4116	user4163	user3249	user205			item6	8	0
+1327	user4030	user379	user4722	user586	user4116	user4163	user3249	user205			item7	3	0
+1328	user4030	user379	user4722	user586	user4116	user4163	user3249	user205			item8	9	0
+1329	user4030	user379	user4722	user586	user4116	user4163	user3249	user205			item9	10	0
+1330	user358	user3889	user2169	user2807	user3380						item0	3	0
+1331	user358	user3889	user2169	user2807	user3380						item1	4	0
+1332	user358	user3889	user2169	user2807	user3380						item2	2	0
+1333	user358	user3889	user2169	user2807	user3380						item3	1	1
+1334	user358	user3889	user2169	user2807	user3380						item4	5	0
+1335	user358	user3889	user2169	user2807	user3380						item5	6	0
+1336	user358	user3889	user2169	user2807	user3380						item6	7	0
+1337	user358	user3889	user2169	user2807	user3380						item7	8	0
+1338	user358	user3889	user2169	user2807	user3380						item8	9	0
+1339	user358	user3889	user2169	user2807	user3380						item9	10	0
+1340	user1192	user454	user4090	user0	user3094	user508	user3117	user2283			item0	3	0
+1341	user1192	user454	user4090	user0	user3094	user508	user3117	user2283			item1	6	0
+1342	user1192	user454	user4090	user0	user3094	user508	user3117	user2283			item2	7	0
+1343	user1192	user454	user4090	user0	user3094	user508	user3117	user2283			item3	4	0
+1344	user1192	user454	user4090	user0	user3094	user508	user3117	user2283			item4	5	0
+1345	user1192	user454	user4090	user0	user3094	user508	user3117	user2283			item5	2	0
+1346	user1192	user454	user4090	user0	user3094	user508	user3117	user2283			item6	1	1
+1347	user1192	user454	user4090	user0	user3094	user508	user3117	user2283			item7	8	0
+1348	user1192	user454	user4090	user0	user3094	user508	user3117	user2283			item8	9	0
+1349	user1192	user454	user4090	user0	user3094	user508	user3117	user2283			item9	10	0
+1350	user3950	user2386	user2707	user1388	user3883	user3839	user561	user882			item0	5	0
+1351	user3950	user2386	user2707	user1388	user3883	user3839	user561	user882			item1	2	0
+1352	user3950	user2386	user2707	user1388	user3883	user3839	user561	user882			item2	6	0
+1353	user3950	user2386	user2707	user1388	user3883	user3839	user561	user882			item3	3	0
+1354	user3950	user2386	user2707	user1388	user3883	user3839	user561	user882			item4	7	0
+1355	user3950	user2386	user2707	user1388	user3883	user3839	user561	user882			item5	4	0
+1356	user3950	user2386	user2707	user1388	user3883	user3839	user561	user882			item6	1	1
+1357	user3950	user2386	user2707	user1388	user3883	user3839	user561	user882			item7	8	0
+1358	user3950	user2386	user2707	user1388	user3883	user3839	user561	user882			item8	9	0
+1359	user3950	user2386	user2707	user1388	user3883	user3839	user561	user882			item9	10	0
+1360	user4480	user4018	user154	user1086	user3046	user891	user4630	user411			item0	1	1
+1361	user4480	user4018	user154	user1086	user3046	user891	user4630	user411			item1	3	0
+1362	user4480	user4018	user154	user1086	user3046	user891	user4630	user411			item2	7	0
+1363	user4480	user4018	user154	user1086	user3046	user891	user4630	user411			item3	2	0
+1364	user4480	user4018	user154	user1086	user3046	user891	user4630	user411			item4	8	0
+1365	user4480	user4018	user154	user1086	user3046	user891	user4630	user411			item5	4	0
+1366	user4480	user4018	user154	user1086	user3046	user891	user4630	user411			item6	5	0
+1367	user4480	user4018	user154	user1086	user3046	user891	user4630	user411			item7	9	0
+1368	user4480	user4018	user154	user1086	user3046	user891	user4630	user411			item8	10	0
+1369	user4480	user4018	user154	user1086	user3046	user891	user4630	user411			item9	6	0
+1370	user228	user2455	user2534	user4412	user794	user2234					item0	2	0
+1371	user228	user2455	user2534	user4412	user794	user2234					item1	1	1
+1372	user228	user2455	user2534	user4412	user794	user2234					item2	5	0
+1373	user228	user2455	user2534	user4412	user794	user2234					item3	6	0
+1374	user228	user2455	user2534	user4412	user794	user2234					item4	7	0
+1375	user228	user2455	user2534	user4412	user794	user2234					item5	8	0
+1376	user228	user2455	user2534	user4412	user794	user2234					item6	3	0
+1377	user228	user2455	user2534	user4412	user794	user2234					item7	9	0
+1378	user228	user2455	user2534	user4412	user794	user2234					item8	10	0
+1379	user228	user2455	user2534	user4412	user794	user2234					item9	4	0
+1380	user3758	user1120	user1894	user1136	user3637	user292	user207	user4694	user1478		item0	6	0
+1381	user3758	user1120	user1894	user1136	user3637	user292	user207	user4694	user1478		item1	1	1
+1382	user3758	user1120	user1894	user1136	user3637	user292	user207	user4694	user1478		item2	7	0
+1383	user3758	user1120	user1894	user1136	user3637	user292	user207	user4694	user1478		item3	3	0
+1384	user3758	user1120	user1894	user1136	user3637	user292	user207	user4694	user1478		item4	4	0
+1385	user3758	user1120	user1894	user1136	user3637	user292	user207	user4694	user1478		item5	8	0
+1386	user3758	user1120	user1894	user1136	user3637	user292	user207	user4694	user1478		item6	2	0
+1387	user3758	user1120	user1894	user1136	user3637	user292	user207	user4694	user1478		item7	9	0
+1388	user3758	user1120	user1894	user1136	user3637	user292	user207	user4694	user1478		item8	10	0
+1389	user3758	user1120	user1894	user1136	user3637	user292	user207	user4694	user1478		item9	5	0
+1390	user3686	user291	user2476	user2337	user1896	user3586					item0	2	0
+1391	user3686	user291	user2476	user2337	user1896	user3586					item1	3	0
+1392	user3686	user291	user2476	user2337	user1896	user3586					item2	6	0
+1393	user3686	user291	user2476	user2337	user1896	user3586					item3	7	0
+1394	user3686	user291	user2476	user2337	user1896	user3586					item4	1	1
+1395	user3686	user291	user2476	user2337	user1896	user3586					item5	8	0
+1396	user3686	user291	user2476	user2337	user1896	user3586					item6	4	0
+1397	user3686	user291	user2476	user2337	user1896	user3586					item7	9	0
+1398	user3686	user291	user2476	user2337	user1896	user3586					item8	10	0
+1399	user3686	user291	user2476	user2337	user1896	user3586					item9	5	0
+1400	user419	user1681									item0	3	0
+1401	user419	user1681									item1	4	0
+1402	user419	user1681									item2	5	0
+1403	user419	user1681									item3	6	0
+1404	user419	user1681									item4	7	0
+1405	user419	user1681									item5	1	1
+1406	user419	user1681									item6	8	0
+1407	user419	user1681									item7	2	0
+1408	user419	user1681									item8	9	0
+1409	user419	user1681									item9	10	0
+1410	user4121	user3008	user3846	user1155	user1478	user2836					item0	1	1
+1411	user4121	user3008	user3846	user1155	user1478	user2836					item1	2	0
+1412	user4121	user3008	user3846	user1155	user1478	user2836					item2	6	0
+1413	user4121	user3008	user3846	user1155	user1478	user2836					item3	7	0
+1414	user4121	user3008	user3846	user1155	user1478	user2836					item4	8	0
+1415	user4121	user3008	user3846	user1155	user1478	user2836					item5	3	0
+1416	user4121	user3008	user3846	user1155	user1478	user2836					item6	4	0
+1417	user4121	user3008	user3846	user1155	user1478	user2836					item7	9	0
+1418	user4121	user3008	user3846	user1155	user1478	user2836					item8	10	0
+1419	user4121	user3008	user3846	user1155	user1478	user2836					item9	5	0
+1420	user962	user4579	user4598	user4880	user3661	user4159	user2707				item0	4	0
+1421	user962	user4579	user4598	user4880	user3661	user4159	user2707				item1	5	0
+1422	user962	user4579	user4598	user4880	user3661	user4159	user2707				item2	6	0
+1423	user962	user4579	user4598	user4880	user3661	user4159	user2707				item3	2	0
+1424	user962	user4579	user4598	user4880	user3661	user4159	user2707				item4	7	0
+1425	user962	user4579	user4598	user4880	user3661	user4159	user2707				item5	3	0
+1426	user962	user4579	user4598	user4880	user3661	user4159	user2707				item6	1	1
+1427	user962	user4579	user4598	user4880	user3661	user4159	user2707				item7	8	0
+1428	user962	user4579	user4598	user4880	user3661	user4159	user2707				item8	9	0
+1429	user962	user4579	user4598	user4880	user3661	user4159	user2707				item9	10	0
+1430	user3343	user1181	user1858	user3189	user4981	user1581					item0	3	0
+1431	user3343	user1181	user1858	user3189	user4981	user1581					item1	1	1
+1432	user3343	user1181	user1858	user3189	user4981	user1581					item2	5	0
+1433	user3343	user1181	user1858	user3189	user4981	user1581					item3	6	0
+1434	user3343	user1181	user1858	user3189	user4981	user1581					item4	7	0
+1435	user3343	user1181	user1858	user3189	user4981	user1581					item5	8	0
+1436	user3343	user1181	user1858	user3189	user4981	user1581					item6	2	0
+1437	user3343	user1181	user1858	user3189	user4981	user1581					item7	9	0
+1438	user3343	user1181	user1858	user3189	user4981	user1581					item8	10	0
+1439	user3343	user1181	user1858	user3189	user4981	user1581					item9	4	0
+1440	user3571	user2234	user3094	user3914							item0	3	0
+1441	user3571	user2234	user3094	user3914							item1	4	0
+1442	user3571	user2234	user3094	user3914							item2	5	0
+1443	user3571	user2234	user3094	user3914							item3	6	0
+1444	user3571	user2234	user3094	user3914							item4	7	0
+1445	user3571	user2234	user3094	user3914							item5	8	0
+1446	user3571	user2234	user3094	user3914							item6	1	1
+1447	user3571	user2234	user3094	user3914							item7	9	0
+1448	user3571	user2234	user3094	user3914							item8	10	0
+1449	user3571	user2234	user3094	user3914							item9	2	0
+1450	user3085	user3051	user3909	user4087	user4926	user2443					item0	2	0
+1451	user3085	user3051	user3909	user4087	user4926	user2443					item1	5	0
+1452	user3085	user3051	user3909	user4087	user4926	user2443					item2	6	0
+1453	user3085	user3051	user3909	user4087	user4926	user2443					item3	1	1
+1454	user3085	user3051	user3909	user4087	user4926	user2443					item4	3	0
+1455	user3085	user3051	user3909	user4087	user4926	user2443					item5	7	0
+1456	user3085	user3051	user3909	user4087	user4926	user2443					item6	8	0
+1457	user3085	user3051	user3909	user4087	user4926	user2443					item7	9	0
+1458	user3085	user3051	user3909	user4087	user4926	user2443					item8	10	0
+1459	user3085	user3051	user3909	user4087	user4926	user2443					item9	4	0
+1460	user3453	user4182	user3290	user3709	user4069	user3391					item0	5	0
+1461	user3453	user4182	user3290	user3709	user4069	user3391					item1	6	0
+1462	user3453	user4182	user3290	user3709	user4069	user3391					item2	7	0
+1463	user3453	user4182	user3290	user3709	user4069	user3391					item3	1	1
+1464	user3453	user4182	user3290	user3709	user4069	user3391					item4	3	0
+1465	user3453	user4182	user3290	user3709	user4069	user3391					item5	2	0
+1466	user3453	user4182	user3290	user3709	user4069	user3391					item6	4	0
+1467	user3453	user4182	user3290	user3709	user4069	user3391					item7	8	0
+1468	user3453	user4182	user3290	user3709	user4069	user3391					item8	9	0
+1469	user3453	user4182	user3290	user3709	user4069	user3391					item9	10	0
+1470	user1202	user456	user2330	user1848	user897	user1482	user4611	user2760	user802	user1974	item0	3	0
+1471	user1202	user456	user2330	user1848	user897	user1482	user4611	user2760	user802	user1974	item1	4	0
+1472	user1202	user456	user2330	user1848	user897	user1482	user4611	user2760	user802	user1974	item2	1	1
+1473	user1202	user456	user2330	user1848	user897	user1482	user4611	user2760	user802	user1974	item3	5	0
+1474	user1202	user456	user2330	user1848	user897	user1482	user4611	user2760	user802	user1974	item4	8	0
+1475	user1202	user456	user2330	user1848	user897	user1482	user4611	user2760	user802	user1974	item5	2	0
+1476	user1202	user456	user2330	user1848	user897	user1482	user4611	user2760	user802	user1974	item6	6	0
+1477	user1202	user456	user2330	user1848	user897	user1482	user4611	user2760	user802	user1974	item7	9	0
+1478	user1202	user456	user2330	user1848	user897	user1482	user4611	user2760	user802	user1974	item8	10	0
+1479	user1202	user456	user2330	user1848	user897	user1482	user4611	user2760	user802	user1974	item9	7	0
+1480	user361	user1809	user3345								item0	3	0
+1481	user361	user1809	user3345								item1	4	0
+1482	user361	user1809	user3345								item2	5	0
+1483	user361	user1809	user3345								item3	1	1
+1484	user361	user1809	user3345								item4	6	0
+1485	user361	user1809	user3345								item5	2	0
+1486	user361	user1809	user3345								item6	7	0
+1487	user361	user1809	user3345								item7	8	0
+1488	user361	user1809	user3345								item8	9	0
+1489	user361	user1809	user3345								item9	10	0
+1490	user1151	user4090	user2466								item0	3	0
+1491	user1151	user4090	user2466								item1	4	0
+1492	user1151	user4090	user2466								item2	5	0
+1493	user1151	user4090	user2466								item3	6	0
+1494	user1151	user4090	user2466								item4	2	0
+1495	user1151	user4090	user2466								item5	7	0
+1496	user1151	user4090	user2466								item6	1	1
+1497	user1151	user4090	user2466								item7	8	0
+1498	user1151	user4090	user2466								item8	9	0
+1499	user1151	user4090	user2466								item9	10	0
+1500	user2187	user1768	user3252	user3763							item0	4	0
+1501	user2187	user1768	user3252	user3763							item1	5	0
+1502	user2187	user1768	user3252	user3763							item2	6	0
+1503	user2187	user1768	user3252	user3763							item3	7	0
+1504	user2187	user1768	user3252	user3763							item4	1	1
+1505	user2187	user1768	user3252	user3763							item5	8	0
+1506	user2187	user1768	user3252	user3763							item6	2	0
+1507	user2187	user1768	user3252	user3763							item7	3	0
+1508	user2187	user1768	user3252	user3763							item8	9	0
+1509	user2187	user1768	user3252	user3763							item9	10	0
+1510	user3392	user4073	user4936	user4434	user3121	user1163	user580	user4620	user4663	user352	item0	2	0
+1511	user3392	user4073	user4936	user4434	user3121	user1163	user580	user4620	user4663	user352	item1	5	0
+1512	user3392	user4073	user4936	user4434	user3121	user1163	user580	user4620	user4663	user352	item2	3	0
+1513	user3392	user4073	user4936	user4434	user3121	user1163	user580	user4620	user4663	user352	item3	6	0
+1514	user3392	user4073	user4936	user4434	user3121	user1163	user580	user4620	user4663	user352	item4	7	0
+1515	user3392	user4073	user4936	user4434	user3121	user1163	user580	user4620	user4663	user352	item5	8	0
+1516	user3392	user4073	user4936	user4434	user3121	user1163	user580	user4620	user4663	user352	item6	1	1
+1517	user3392	user4073	user4936	user4434	user3121	user1163	user580	user4620	user4663	user352	item7	9	0
+1518	user3392	user4073	user4936	user4434	user3121	user1163	user580	user4620	user4663	user352	item8	10	0
+1519	user3392	user4073	user4936	user4434	user3121	user1163	user580	user4620	user4663	user352	item9	4	0
+1520	user3402	user857									item0	3	0
+1521	user3402	user857									item1	4	0
+1522	user3402	user857									item2	5	0
+1523	user3402	user857									item3	1	1
+1524	user3402	user857									item4	6	0
+1525	user3402	user857									item5	7	0
+1526	user3402	user857									item6	2	0
+1527	user3402	user857									item7	8	0
+1528	user3402	user857									item8	9	0
+1529	user3402	user857									item9	10	0
+1530	user4552	user4914									item0	3	0
+1531	user4552	user4914									item1	1	1
+1532	user4552	user4914									item2	4	0
+1533	user4552	user4914									item3	5	0
+1534	user4552	user4914									item4	6	0
+1535	user4552	user4914									item5	7	0
+1536	user4552	user4914									item6	8	0
+1537	user4552	user4914									item7	9	0
+1538	user4552	user4914									item8	2	0
+1539	user4552	user4914									item9	10	0
+1540	user3247	user391	user2714	user1504	user3386	user4862					item0	5	0
+1541	user3247	user391	user2714	user1504	user3386	user4862					item1	2	0
+1542	user3247	user391	user2714	user1504	user3386	user4862					item2	6	0
+1543	user3247	user391	user2714	user1504	user3386	user4862					item3	7	0
+1544	user3247	user391	user2714	user1504	user3386	user4862					item4	3	0
+1545	user3247	user391	user2714	user1504	user3386	user4862					item5	8	0
+1546	user3247	user391	user2714	user1504	user3386	user4862					item6	1	1
+1547	user3247	user391	user2714	user1504	user3386	user4862					item7	9	0
+1548	user3247	user391	user2714	user1504	user3386	user4862					item8	4	0
+1549	user3247	user391	user2714	user1504	user3386	user4862					item9	10	0
+1550	user4645	user2833	user2500	user914							item0	4	0
+1551	user4645	user2833	user2500	user914							item1	5	0
+1552	user4645	user2833	user2500	user914							item2	6	0
+1553	user4645	user2833	user2500	user914							item3	7	0
+1554	user4645	user2833	user2500	user914							item4	8	0
+1555	user4645	user2833	user2500	user914							item5	9	0
+1556	user4645	user2833	user2500	user914							item6	1	1
+1557	user4645	user2833	user2500	user914							item7	10	0
+1558	user4645	user2833	user2500	user914							item8	2	0
+1559	user4645	user2833	user2500	user914							item9	3	0
+1560	user4334	user2048									item0	1	1
+1561	user4334	user2048									item1	3	0
+1562	user4334	user2048									item2	4	0
+1563	user4334	user2048									item3	2	0
+1564	user4334	user2048									item4	5	0
+1565	user4334	user2048									item5	6	0
+1566	user4334	user2048									item6	7	0
+1567	user4334	user2048									item7	8	0
+1568	user4334	user2048									item8	9	0
+1569	user4334	user2048									item9	10	0
+1570	user1526	user2039	user488	user4639	user1785	user3731					item0	5	0
+1571	user1526	user2039	user488	user4639	user1785	user3731					item1	6	0
+1572	user1526	user2039	user488	user4639	user1785	user3731					item2	7	0
+1573	user1526	user2039	user488	user4639	user1785	user3731					item3	1	1
+1574	user1526	user2039	user488	user4639	user1785	user3731					item4	2	0
+1575	user1526	user2039	user488	user4639	user1785	user3731					item5	3	0
+1576	user1526	user2039	user488	user4639	user1785	user3731					item6	8	0
+1577	user1526	user2039	user488	user4639	user1785	user3731					item7	4	0
+1578	user1526	user2039	user488	user4639	user1785	user3731					item8	9	0
+1579	user1526	user2039	user488	user4639	user1785	user3731					item9	10	0
+1580	user1433	user4618	user75								item0	4	0
+1581	user1433	user4618	user75								item1	5	0
+1582	user1433	user4618	user75								item2	6	0
+1583	user1433	user4618	user75								item3	1	1
+1584	user1433	user4618	user75								item4	7	0
+1585	user1433	user4618	user75								item5	8	0
+1586	user1433	user4618	user75								item6	2	0
+1587	user1433	user4618	user75								item7	9	0
+1588	user1433	user4618	user75								item8	10	0
+1589	user1433	user4618	user75								item9	3	0
+1590	user3078	user1647	user1680	user4074							item0	4	0
+1591	user3078	user1647	user1680	user4074							item1	5	0
+1592	user3078	user1647	user1680	user4074							item2	6	0
+1593	user3078	user1647	user1680	user4074							item3	2	0
+1594	user3078	user1647	user1680	user4074							item4	7	0
+1595	user3078	user1647	user1680	user4074							item5	8	0
+1596	user3078	user1647	user1680	user4074							item6	1	1
+1597	user3078	user1647	user1680	user4074							item7	9	0
+1598	user3078	user1647	user1680	user4074							item8	10	0
+1599	user3078	user1647	user1680	user4074							item9	3	0
+1600	user4081	user140	user1871	user3595	user811	user898	user2553	user2721			item0	2	0
+1601	user4081	user140	user1871	user3595	user811	user898	user2553	user2721			item1	3	0
+1602	user4081	user140	user1871	user3595	user811	user898	user2553	user2721			item2	7	0
+1603	user4081	user140	user1871	user3595	user811	user898	user2553	user2721			item3	1	1
+1604	user4081	user140	user1871	user3595	user811	user898	user2553	user2721			item4	8	0
+1605	user4081	user140	user1871	user3595	user811	user898	user2553	user2721			item5	4	0
+1606	user4081	user140	user1871	user3595	user811	user898	user2553	user2721			item6	5	0
+1607	user4081	user140	user1871	user3595	user811	user898	user2553	user2721			item7	9	0
+1608	user4081	user140	user1871	user3595	user811	user898	user2553	user2721			item8	10	0
+1609	user4081	user140	user1871	user3595	user811	user898	user2553	user2721			item9	6	0
+1610	user4525	user4425	user2162	user4552	user2852	user4831	user3380	user1208	user4697	user4396	item0	3	0
+1611	user4525	user4425	user2162	user4552	user2852	user4831	user3380	user1208	user4697	user4396	item1	4	0
+1612	user4525	user4425	user2162	user4552	user2852	user4831	user3380	user1208	user4697	user4396	item2	5	0
+1613	user4525	user4425	user2162	user4552	user2852	user4831	user3380	user1208	user4697	user4396	item3	6	0
+1614	user4525	user4425	user2162	user4552	user2852	user4831	user3380	user1208	user4697	user4396	item4	1	1
+1615	user4525	user4425	user2162	user4552	user2852	user4831	user3380	user1208	user4697	user4396	item5	7	0
+1616	user4525	user4425	user2162	user4552	user2852	user4831	user3380	user1208	user4697	user4396	item6	2	0
+1617	user4525	user4425	user2162	user4552	user2852	user4831	user3380	user1208	user4697	user4396	item7	9	0
+1618	user4525	user4425	user2162	user4552	user2852	user4831	user3380	user1208	user4697	user4396	item8	10	0
+1619	user4525	user4425	user2162	user4552	user2852	user4831	user3380	user1208	user4697	user4396	item9	8	0
+1620	user3159	user3469									item0	3	0
+1621	user3159	user3469									item1	4	0
+1622	user3159	user3469									item2	5	0
+1623	user3159	user3469									item3	6	0
+1624	user3159	user3469									item4	7	0
+1625	user3159	user3469									item5	8	0
+1626	user3159	user3469									item6	1	1
+1627	user3159	user3469									item7	9	0
+1628	user3159	user3469									item8	2	0
+1629	user3159	user3469									item9	10	0
+1630	user4196	user4641	user2775	user4809	user3977	user1872					item0	4	0
+1631	user4196	user4641	user2775	user4809	user3977	user1872					item1	5	0
+1632	user4196	user4641	user2775	user4809	user3977	user1872					item2	6	0
+1633	user4196	user4641	user2775	user4809	user3977	user1872					item3	1	1
+1634	user4196	user4641	user2775	user4809	user3977	user1872					item4	7	0
+1635	user4196	user4641	user2775	user4809	user3977	user1872					item5	2	0
+1636	user4196	user4641	user2775	user4809	user3977	user1872					item6	3	0
+1637	user4196	user4641	user2775	user4809	user3977	user1872					item7	8	0
+1638	user4196	user4641	user2775	user4809	user3977	user1872					item8	9	0
+1639	user4196	user4641	user2775	user4809	user3977	user1872					item9	10	0
+1640	user3080	user131	user3578	user3858	user2715	user3790	user1415	user2396	user4870		item0	6	0
+1641	user3080	user131	user3578	user3858	user2715	user3790	user1415	user2396	user4870		item1	4	0
+1642	user3080	user131	user3578	user3858	user2715	user3790	user1415	user2396	user4870		item2	7	0
+1643	user3080	user131	user3578	user3858	user2715	user3790	user1415	user2396	user4870		item3	2	0
+1644	user3080	user131	user3578	user3858	user2715	user3790	user1415	user2396	user4870		item4	5	0
+1645	user3080	user131	user3578	user3858	user2715	user3790	user1415	user2396	user4870		item5	3	0
+1646	user3080	user131	user3578	user3858	user2715	user3790	user1415	user2396	user4870		item6	1	1
+1647	user3080	user131	user3578	user3858	user2715	user3790	user1415	user2396	user4870		item7	8	0
+1648	user3080	user131	user3578	user3858	user2715	user3790	user1415	user2396	user4870		item8	9	0
+1649	user3080	user131	user3578	user3858	user2715	user3790	user1415	user2396	user4870		item9	10	0
+1650	user1966	user4534	user4818	user4602	user763	user1264	user3176	user4995	user3856		item0	2	0
+1651	user1966	user4534	user4818	user4602	user763	user1264	user3176	user4995	user3856		item1	6	0
+1652	user1966	user4534	user4818	user4602	user763	user1264	user3176	user4995	user3856		item2	7	0
+1653	user1966	user4534	user4818	user4602	user763	user1264	user3176	user4995	user3856		item3	3	0
+1654	user1966	user4534	user4818	user4602	user763	user1264	user3176	user4995	user3856		item4	8	0
+1655	user1966	user4534	user4818	user4602	user763	user1264	user3176	user4995	user3856		item5	4	0
+1656	user1966	user4534	user4818	user4602	user763	user1264	user3176	user4995	user3856		item6	1	1
+1657	user1966	user4534	user4818	user4602	user763	user1264	user3176	user4995	user3856		item7	9	0
+1658	user1966	user4534	user4818	user4602	user763	user1264	user3176	user4995	user3856		item8	10	0
+1659	user1966	user4534	user4818	user4602	user763	user1264	user3176	user4995	user3856		item9	5	0
+1660	user160	user4811	user4294	user72	user3986	user3312	user2927	user3746	user2499		item0	3	0
+1661	user160	user4811	user4294	user72	user3986	user3312	user2927	user3746	user2499		item1	6	0
+1662	user160	user4811	user4294	user72	user3986	user3312	user2927	user3746	user2499		item2	7	0
+1663	user160	user4811	user4294	user72	user3986	user3312	user2927	user3746	user2499		item3	1	1
+1664	user160	user4811	user4294	user72	user3986	user3312	user2927	user3746	user2499		item4	8	0
+1665	user160	user4811	user4294	user72	user3986	user3312	user2927	user3746	user2499		item5	4	0
+1666	user160	user4811	user4294	user72	user3986	user3312	user2927	user3746	user2499		item6	2	0
+1667	user160	user4811	user4294	user72	user3986	user3312	user2927	user3746	user2499		item7	9	0
+1668	user160	user4811	user4294	user72	user3986	user3312	user2927	user3746	user2499		item8	10	0
+1669	user160	user4811	user4294	user72	user3986	user3312	user2927	user3746	user2499		item9	5	0
+1670	user874	user2428	user951	user4968							item0	1	1
+1671	user874	user2428	user951	user4968							item1	2	0
+1672	user874	user2428	user951	user4968							item2	5	0
+1673	user874	user2428	user951	user4968							item3	3	0
+1674	user874	user2428	user951	user4968							item4	6	0
+1675	user874	user2428	user951	user4968							item5	4	0
+1676	user874	user2428	user951	user4968							item6	7	0
+1677	user874	user2428	user951	user4968							item7	8	0
+1678	user874	user2428	user951	user4968							item8	9	0
+1679	user874	user2428	user951	user4968							item9	10	0
+1680	user2448	user450	user2499	user2243	user534	user2197	user2803				item0	4	0
+1681	user2448	user450	user2499	user2243	user534	user2197	user2803				item1	5	0
+1682	user2448	user450	user2499	user2243	user534	user2197	user2803				item2	6	0
+1683	user2448	user450	user2499	user2243	user534	user2197	user2803				item3	2	0
+1684	user2448	user450	user2499	user2243	user534	user2197	user2803				item4	7	0
+1685	user2448	user450	user2499	user2243	user534	user2197	user2803				item5	3	0
+1686	user2448	user450	user2499	user2243	user534	user2197	user2803				item6	1	1
+1687	user2448	user450	user2499	user2243	user534	user2197	user2803				item7	8	0
+1688	user2448	user450	user2499	user2243	user534	user2197	user2803				item8	9	0
+1689	user2448	user450	user2499	user2243	user534	user2197	user2803				item9	10	0
+1690	user984	user3370	user3071	user1753	user4374						item0	1	1
+1691	user984	user3370	user3071	user1753	user4374						item1	6	0
+1692	user984	user3370	user3071	user1753	user4374						item2	7	0
+1693	user984	user3370	user3071	user1753	user4374						item3	2	0
+1694	user984	user3370	user3071	user1753	user4374						item4	8	0
+1695	user984	user3370	user3071	user1753	user4374						item5	3	0
+1696	user984	user3370	user3071	user1753	user4374						item6	4	0
+1697	user984	user3370	user3071	user1753	user4374						item7	9	0
+1698	user984	user3370	user3071	user1753	user4374						item8	10	0
+1699	user984	user3370	user3071	user1753	user4374						item9	5	0
+1700	user2809	user2588									item0	3	0
+1701	user2809	user2588									item1	4	0
+1702	user2809	user2588									item2	5	0
+1703	user2809	user2588									item3	6	0
+1704	user2809	user2588									item4	7	0
+1705	user2809	user2588									item5	8	0
+1706	user2809	user2588									item6	1	1
+1707	user2809	user2588									item7	9	0
+1708	user2809	user2588									item8	10	0
+1709	user2809	user2588									item9	2	0
+1710	user4665	user4813	user3897	user2543							item0	2	0
+1711	user4665	user4813	user3897	user2543							item1	3	0
+1712	user4665	user4813	user3897	user2543							item2	4	0
+1713	user4665	user4813	user3897	user2543							item3	5	0
+1714	user4665	user4813	user3897	user2543							item4	6	0
+1715	user4665	user4813	user3897	user2543							item5	7	0
+1716	user4665	user4813	user3897	user2543							item6	1	1
+1717	user4665	user4813	user3897	user2543							item7	8	0
+1718	user4665	user4813	user3897	user2543							item8	9	0
+1719	user4665	user4813	user3897	user2543							item9	10	0
+1720	user4022	user3844	user1593	user3059	user1277	user4932	user4489	user2910			item0	3	0
+1721	user4022	user3844	user1593	user3059	user1277	user4932	user4489	user2910			item1	6	0
+1722	user4022	user3844	user1593	user3059	user1277	user4932	user4489	user2910			item2	7	0
+1723	user4022	user3844	user1593	user3059	user1277	user4932	user4489	user2910			item3	1	1
+1724	user4022	user3844	user1593	user3059	user1277	user4932	user4489	user2910			item4	4	0
+1725	user4022	user3844	user1593	user3059	user1277	user4932	user4489	user2910			item5	2	0
+1726	user4022	user3844	user1593	user3059	user1277	user4932	user4489	user2910			item6	5	0
+1727	user4022	user3844	user1593	user3059	user1277	user4932	user4489	user2910			item7	8	0
+1728	user4022	user3844	user1593	user3059	user1277	user4932	user4489	user2910			item8	9	0
+1729	user4022	user3844	user1593	user3059	user1277	user4932	user4489	user2910			item9	10	0
+1730	user3421	user3589	user3876	user288							item0	4	0
+1731	user3421	user3589	user3876	user288							item1	2	0
+1732	user3421	user3589	user3876	user288							item2	5	0
+1733	user3421	user3589	user3876	user288							item3	6	0
+1734	user3421	user3589	user3876	user288							item4	7	0
+1735	user3421	user3589	user3876	user288							item5	8	0
+1736	user3421	user3589	user3876	user288							item6	1	1
+1737	user3421	user3589	user3876	user288							item7	9	0
+1738	user3421	user3589	user3876	user288							item8	3	0
+1739	user3421	user3589	user3876	user288							item9	10	0
+1740	user1207	user1846	user851	user4041	user2984	user4706	user2331				item0	6	0
+1741	user1207	user1846	user851	user4041	user2984	user4706	user2331				item1	2	0
+1742	user1207	user1846	user851	user4041	user2984	user4706	user2331				item2	3	0
+1743	user1207	user1846	user851	user4041	user2984	user4706	user2331				item3	7	0
+1744	user1207	user1846	user851	user4041	user2984	user4706	user2331				item4	4	0
+1745	user1207	user1846	user851	user4041	user2984	user4706	user2331				item5	8	0
+1746	user1207	user1846	user851	user4041	user2984	user4706	user2331				item6	1	1
+1747	user1207	user1846	user851	user4041	user2984	user4706	user2331				item7	9	0
+1748	user1207	user1846	user851	user4041	user2984	user4706	user2331				item8	10	0
+1749	user1207	user1846	user851	user4041	user2984	user4706	user2331				item9	5	0
+1750	user2168	user4107	user2295	user3220	user1961	user2588	user3937	user4861	user2125		item0	1	1
+1751	user2168	user4107	user2295	user3220	user1961	user2588	user3937	user4861	user2125		item1	4	0
+1752	user2168	user4107	user2295	user3220	user1961	user2588	user3937	user4861	user2125		item2	7	0
+1753	user2168	user4107	user2295	user3220	user1961	user2588	user3937	user4861	user2125		item3	5	0
+1754	user2168	user4107	user2295	user3220	user1961	user2588	user3937	user4861	user2125		item4	2	0
+1755	user2168	user4107	user2295	user3220	user1961	user2588	user3937	user4861	user2125		item5	8	0
+1756	user2168	user4107	user2295	user3220	user1961	user2588	user3937	user4861	user2125		item6	3	0
+1757	user2168	user4107	user2295	user3220	user1961	user2588	user3937	user4861	user2125		item7	9	0
+1758	user2168	user4107	user2295	user3220	user1961	user2588	user3937	user4861	user2125		item8	10	0
+1759	user2168	user4107	user2295	user3220	user1961	user2588	user3937	user4861	user2125		item9	6	0
+1760	user1322	user2733	user1517	user1922							item0	2	0
+1761	user1322	user2733	user1517	user1922							item1	4	0
+1762	user1322	user2733	user1517	user1922							item2	5	0
+1763	user1322	user2733	user1517	user1922							item3	6	0
+1764	user1322	user2733	user1517	user1922							item4	3	0
+1765	user1322	user2733	user1517	user1922							item5	7	0
+1766	user1322	user2733	user1517	user1922							item6	8	0
+1767	user1322	user2733	user1517	user1922							item7	9	0
+1768	user1322	user2733	user1517	user1922							item8	10	0
+1769	user1322	user2733	user1517	user1922							item9	1	1
+1770	user4440	user2230	user4709	user1625	user781	user72	user3783	user596	user954		item0	7	0
+1771	user4440	user2230	user4709	user1625	user781	user72	user3783	user596	user954		item1	3	0
+1772	user4440	user2230	user4709	user1625	user781	user72	user3783	user596	user954		item2	8	0
+1773	user4440	user2230	user4709	user1625	user781	user72	user3783	user596	user954		item3	2	0
+1774	user4440	user2230	user4709	user1625	user781	user72	user3783	user596	user954		item4	4	0
+1775	user4440	user2230	user4709	user1625	user781	user72	user3783	user596	user954		item5	5	0
+1776	user4440	user2230	user4709	user1625	user781	user72	user3783	user596	user954		item6	1	1
+1777	user4440	user2230	user4709	user1625	user781	user72	user3783	user596	user954		item7	9	0
+1778	user4440	user2230	user4709	user1625	user781	user72	user3783	user596	user954		item8	10	0
+1779	user4440	user2230	user4709	user1625	user781	user72	user3783	user596	user954		item9	6	0
+1780	user1529	user4976	user472	user2308	user2506	user2874					item0	3	0
+1781	user1529	user4976	user472	user2308	user2506	user2874					item1	5	0
+1782	user1529	user4976	user472	user2308	user2506	user2874					item2	1	1
+1783	user1529	user4976	user472	user2308	user2506	user2874					item3	6	0
+1784	user1529	user4976	user472	user2308	user2506	user2874					item4	4	0
+1785	user1529	user4976	user472	user2308	user2506	user2874					item5	7	0
+1786	user1529	user4976	user472	user2308	user2506	user2874					item6	2	0
+1787	user1529	user4976	user472	user2308	user2506	user2874					item7	8	0
+1788	user1529	user4976	user472	user2308	user2506	user2874					item8	9	0
+1789	user1529	user4976	user472	user2308	user2506	user2874					item9	10	0
+1790	user2292	user3208									item0	3	0
+1791	user2292	user3208									item1	4	0
+1792	user2292	user3208									item2	5	0
+1793	user2292	user3208									item3	6	0
+1794	user2292	user3208									item4	7	0
+1795	user2292	user3208									item5	8	0
+1796	user2292	user3208									item6	1	1
+1797	user2292	user3208									item7	9	0
+1798	user2292	user3208									item8	2	0
+1799	user2292	user3208									item9	10	0
+1800	user2990	user1833	user1169	user198	user3065	user3158	user3302				item0	6	0
+1801	user2990	user1833	user1169	user198	user3065	user3158	user3302				item1	2	0
+1802	user2990	user1833	user1169	user198	user3065	user3158	user3302				item2	7	0
+1803	user2990	user1833	user1169	user198	user3065	user3158	user3302				item3	8	0
+1804	user2990	user1833	user1169	user198	user3065	user3158	user3302				item4	3	0
+1805	user2990	user1833	user1169	user198	user3065	user3158	user3302				item5	4	0
+1806	user2990	user1833	user1169	user198	user3065	user3158	user3302				item6	1	1
+1807	user2990	user1833	user1169	user198	user3065	user3158	user3302				item7	9	0
+1808	user2990	user1833	user1169	user198	user3065	user3158	user3302				item8	10	0
+1809	user2990	user1833	user1169	user198	user3065	user3158	user3302				item9	5	0
+1810	user768	user2111	user78	user2712	user417	user215					item0	6	0
+1811	user768	user2111	user78	user2712	user417	user215					item1	2	0
+1812	user768	user2111	user78	user2712	user417	user215					item2	3	0
+1813	user768	user2111	user78	user2712	user417	user215					item3	4	0
+1814	user768	user2111	user78	user2712	user417	user215					item4	7	0
+1815	user768	user2111	user78	user2712	user417	user215					item5	8	0
+1816	user768	user2111	user78	user2712	user417	user215					item6	1	1
+1817	user768	user2111	user78	user2712	user417	user215					item7	9	0
+1818	user768	user2111	user78	user2712	user417	user215					item8	10	0
+1819	user768	user2111	user78	user2712	user417	user215					item9	5	0
+1820	user765	user675	user2821	user2460	user2888	user1149	user4087	user4469	user1995		item0	6	0
+1821	user765	user675	user2821	user2460	user2888	user1149	user4087	user4469	user1995		item1	7	0
+1822	user765	user675	user2821	user2460	user2888	user1149	user4087	user4469	user1995		item2	4	0
+1823	user765	user675	user2821	user2460	user2888	user1149	user4087	user4469	user1995		item3	2	0
+1824	user765	user675	user2821	user2460	user2888	user1149	user4087	user4469	user1995		item4	1	1
+1825	user765	user675	user2821	user2460	user2888	user1149	user4087	user4469	user1995		item5	8	0
+1826	user765	user675	user2821	user2460	user2888	user1149	user4087	user4469	user1995		item6	3	0
+1827	user765	user675	user2821	user2460	user2888	user1149	user4087	user4469	user1995		item7	9	0
+1828	user765	user675	user2821	user2460	user2888	user1149	user4087	user4469	user1995		item8	10	0
+1829	user765	user675	user2821	user2460	user2888	user1149	user4087	user4469	user1995		item9	5	0
+1830	user2939	user2262	user3839	user540	user4855	user2880	user1888	user1899	user2237	user2488	item0	6	0
+1831	user2939	user2262	user3839	user540	user4855	user2880	user1888	user1899	user2237	user2488	item1	3	0
+1832	user2939	user2262	user3839	user540	user4855	user2880	user1888	user1899	user2237	user2488	item2	7	0
+1833	user2939	user2262	user3839	user540	user4855	user2880	user1888	user1899	user2237	user2488	item3	1	1
+1834	user2939	user2262	user3839	user540	user4855	user2880	user1888	user1899	user2237	user2488	item4	4	0
+1835	user2939	user2262	user3839	user540	user4855	user2880	user1888	user1899	user2237	user2488	item5	5	0
+1836	user2939	user2262	user3839	user540	user4855	user2880	user1888	user1899	user2237	user2488	item6	2	0
+1837	user2939	user2262	user3839	user540	user4855	user2880	user1888	user1899	user2237	user2488	item7	8	0
+1838	user2939	user2262	user3839	user540	user4855	user2880	user1888	user1899	user2237	user2488	item8	9	0
+1839	user2939	user2262	user3839	user540	user4855	user2880	user1888	user1899	user2237	user2488	item9	10	0
+1840	user2186	user1304	user4689								item0	4	0
+1841	user2186	user1304	user4689								item1	5	0
+1842	user2186	user1304	user4689								item2	1	1
+1843	user2186	user1304	user4689								item3	2	0
+1844	user2186	user1304	user4689								item4	6	0
+1845	user2186	user1304	user4689								item5	3	0
+1846	user2186	user1304	user4689								item6	7	0
+1847	user2186	user1304	user4689								item7	8	0
+1848	user2186	user1304	user4689								item8	9	0
+1849	user2186	user1304	user4689								item9	10	0
+1850	user4606	user3425	user4782								item0	1	1
+1851	user4606	user3425	user4782								item1	2	0
+1852	user4606	user3425	user4782								item2	4	0
+1853	user4606	user3425	user4782								item3	3	0
+1854	user4606	user3425	user4782								item4	5	0
+1855	user4606	user3425	user4782								item5	6	0
+1856	user4606	user3425	user4782								item6	7	0
+1857	user4606	user3425	user4782								item7	8	0
+1858	user4606	user3425	user4782								item8	9	0
+1859	user4606	user3425	user4782								item9	10	0
+1860	user953	user637	user2375	user3292	user3489	user4218					item0	4	0
+1861	user953	user637	user2375	user3292	user3489	user4218					item1	5	0
+1862	user953	user637	user2375	user3292	user3489	user4218					item2	6	0
+1863	user953	user637	user2375	user3292	user3489	user4218					item3	2	0
+1864	user953	user637	user2375	user3292	user3489	user4218					item4	1	1
+1865	user953	user637	user2375	user3292	user3489	user4218					item5	7	0
+1866	user953	user637	user2375	user3292	user3489	user4218					item6	8	0
+1867	user953	user637	user2375	user3292	user3489	user4218					item7	9	0
+1868	user953	user637	user2375	user3292	user3489	user4218					item8	3	0
+1869	user953	user637	user2375	user3292	user3489	user4218					item9	10	0
+1870	user192	user3509	user4077	user3844	user735	user2413	user4794	user523			item0	3	0
+1871	user192	user3509	user4077	user3844	user735	user2413	user4794	user523			item1	6	0
+1872	user192	user3509	user4077	user3844	user735	user2413	user4794	user523			item2	4	0
+1873	user192	user3509	user4077	user3844	user735	user2413	user4794	user523			item3	5	0
+1874	user192	user3509	user4077	user3844	user735	user2413	user4794	user523			item4	2	0
+1875	user192	user3509	user4077	user3844	user735	user2413	user4794	user523			item5	7	0
+1876	user192	user3509	user4077	user3844	user735	user2413	user4794	user523			item6	1	1
+1877	user192	user3509	user4077	user3844	user735	user2413	user4794	user523			item7	8	0
+1878	user192	user3509	user4077	user3844	user735	user2413	user4794	user523			item8	9	0
+1879	user192	user3509	user4077	user3844	user735	user2413	user4794	user523			item9	10	0
+1880	user546	user2262	user477	user530	user521	user4539	user293	user4920	user992	user4864	item0	4	0
+1881	user546	user2262	user477	user530	user521	user4539	user293	user4920	user992	user4864	item1	5	0
+1882	user546	user2262	user477	user530	user521	user4539	user293	user4920	user992	user4864	item2	6	0
+1883	user546	user2262	user477	user530	user521	user4539	user293	user4920	user992	user4864	item3	7	0
+1884	user546	user2262	user477	user530	user521	user4539	user293	user4920	user992	user4864	item4	3	0
+1885	user546	user2262	user477	user530	user521	user4539	user293	user4920	user992	user4864	item5	2	0
+1886	user546	user2262	user477	user530	user521	user4539	user293	user4920	user992	user4864	item6	1	1
+1887	user546	user2262	user477	user530	user521	user4539	user293	user4920	user992	user4864	item7	8	0
+1888	user546	user2262	user477	user530	user521	user4539	user293	user4920	user992	user4864	item8	9	0
+1889	user546	user2262	user477	user530	user521	user4539	user293	user4920	user992	user4864	item9	10	0
+1890	user4800	user477	user2457	user1373	user3692	user826	user2745	user4802	user1807		item0	2	0
+1891	user4800	user477	user2457	user1373	user3692	user826	user2745	user4802	user1807		item1	6	0
+1892	user4800	user477	user2457	user1373	user3692	user826	user2745	user4802	user1807		item2	3	0
+1893	user4800	user477	user2457	user1373	user3692	user826	user2745	user4802	user1807		item3	7	0
+1894	user4800	user477	user2457	user1373	user3692	user826	user2745	user4802	user1807		item4	8	0
+1895	user4800	user477	user2457	user1373	user3692	user826	user2745	user4802	user1807		item5	4	0
+1896	user4800	user477	user2457	user1373	user3692	user826	user2745	user4802	user1807		item6	1	1
+1897	user4800	user477	user2457	user1373	user3692	user826	user2745	user4802	user1807		item7	9	0
+1898	user4800	user477	user2457	user1373	user3692	user826	user2745	user4802	user1807		item8	10	0
+1899	user4800	user477	user2457	user1373	user3692	user826	user2745	user4802	user1807		item9	5	0
+1900	user131	user2386	user4308	user1480	user1581	user3459	user511	user3559	user546		item0	5	0
+1901	user131	user2386	user4308	user1480	user1581	user3459	user511	user3559	user546		item1	2	0
+1902	user131	user2386	user4308	user1480	user1581	user3459	user511	user3559	user546		item2	6	0
+1903	user131	user2386	user4308	user1480	user1581	user3459	user511	user3559	user546		item3	7	0
+1904	user131	user2386	user4308	user1480	user1581	user3459	user511	user3559	user546		item4	8	0
+1905	user131	user2386	user4308	user1480	user1581	user3459	user511	user3559	user546		item5	3	0
+1906	user131	user2386	user4308	user1480	user1581	user3459	user511	user3559	user546		item6	1	1
+1907	user131	user2386	user4308	user1480	user1581	user3459	user511	user3559	user546		item7	9	0
+1908	user131	user2386	user4308	user1480	user1581	user3459	user511	user3559	user546		item8	10	0
+1909	user131	user2386	user4308	user1480	user1581	user3459	user511	user3559	user546		item9	4	0
+1910	user1818	user3949	user4281	user2544	user2665	user4172					item0	2	0
+1911	user1818	user3949	user4281	user2544	user2665	user4172					item1	5	0
+1912	user1818	user3949	user4281	user2544	user2665	user4172					item2	6	0
+1913	user1818	user3949	user4281	user2544	user2665	user4172					item3	1	1
+1914	user1818	user3949	user4281	user2544	user2665	user4172					item4	7	0
+1915	user1818	user3949	user4281	user2544	user2665	user4172					item5	3	0
+1916	user1818	user3949	user4281	user2544	user2665	user4172					item6	8	0
+1917	user1818	user3949	user4281	user2544	user2665	user4172					item7	4	0
+1918	user1818	user3949	user4281	user2544	user2665	user4172					item8	9	0
+1919	user1818	user3949	user4281	user2544	user2665	user4172					item9	10	0
+1920	user3260	user2651	user435	user1065	user3245	user395	user4893	user4666	user2964		item0	4	0
+1921	user3260	user2651	user435	user1065	user3245	user395	user4893	user4666	user2964		item1	7	0
+1922	user3260	user2651	user435	user1065	user3245	user395	user4893	user4666	user2964		item2	8	0
+1923	user3260	user2651	user435	user1065	user3245	user395	user4893	user4666	user2964		item3	1	1
+1924	user3260	user2651	user435	user1065	user3245	user395	user4893	user4666	user2964		item4	2	0
+1925	user3260	user2651	user435	user1065	user3245	user395	user4893	user4666	user2964		item5	5	0
+1926	user3260	user2651	user435	user1065	user3245	user395	user4893	user4666	user2964		item6	9	0
+1927	user3260	user2651	user435	user1065	user3245	user395	user4893	user4666	user2964		item7	3	0
+1928	user3260	user2651	user435	user1065	user3245	user395	user4893	user4666	user2964		item8	10	0
+1929	user3260	user2651	user435	user1065	user3245	user395	user4893	user4666	user2964		item9	6	0
+1930	user259	user2365	user4938	user3123	user4646						item0	5	0
+1931	user259	user2365	user4938	user3123	user4646						item1	6	0
+1932	user259	user2365	user4938	user3123	user4646						item2	7	0
+1933	user259	user2365	user4938	user3123	user4646						item3	2	0
+1934	user259	user2365	user4938	user3123	user4646						item4	3	0
+1935	user259	user2365	user4938	user3123	user4646						item5	8	0
+1936	user259	user2365	user4938	user3123	user4646						item6	4	0
+1937	user259	user2365	user4938	user3123	user4646						item7	9	0
+1938	user259	user2365	user4938	user3123	user4646						item8	10	0
+1939	user259	user2365	user4938	user3123	user4646						item9	1	1
+1940	user4734	user4566	user4152	user1005	user3270						item0	4	0
+1941	user4734	user4566	user4152	user1005	user3270						item1	5	0
+1942	user4734	user4566	user4152	user1005	user3270						item2	6	0
+1943	user4734	user4566	user4152	user1005	user3270						item3	1	1
+1944	user4734	user4566	user4152	user1005	user3270						item4	7	0
+1945	user4734	user4566	user4152	user1005	user3270						item5	3	0
+1946	user4734	user4566	user4152	user1005	user3270						item6	8	0
+1947	user4734	user4566	user4152	user1005	user3270						item7	9	0
+1948	user4734	user4566	user4152	user1005	user3270						item8	10	0
+1949	user4734	user4566	user4152	user1005	user3270						item9	2	0
+1950	user1999	user186	user541	user923							item0	5	0
+1951	user1999	user186	user541	user923							item1	6	0
+1952	user1999	user186	user541	user923							item2	1	1
+1953	user1999	user186	user541	user923							item3	2	0
+1954	user1999	user186	user541	user923							item4	7	0
+1955	user1999	user186	user541	user923							item5	8	0
+1956	user1999	user186	user541	user923							item6	3	0
+1957	user1999	user186	user541	user923							item7	9	0
+1958	user1999	user186	user541	user923							item8	4	0
+1959	user1999	user186	user541	user923							item9	10	0
+1960	user4153	user4763	user3233	user4351	user4933	user263	user2807	user647			item0	6	0
+1961	user4153	user4763	user3233	user4351	user4933	user263	user2807	user647			item1	7	0
+1962	user4153	user4763	user3233	user4351	user4933	user263	user2807	user647			item2	1	1
+1963	user4153	user4763	user3233	user4351	user4933	user263	user2807	user647			item3	2	0
+1964	user4153	user4763	user3233	user4351	user4933	user263	user2807	user647			item4	3	0
+1965	user4153	user4763	user3233	user4351	user4933	user263	user2807	user647			item5	8	0
+1966	user4153	user4763	user3233	user4351	user4933	user263	user2807	user647			item6	4	0
+1967	user4153	user4763	user3233	user4351	user4933	user263	user2807	user647			item7	9	0
+1968	user4153	user4763	user3233	user4351	user4933	user263	user2807	user647			item8	10	0
+1969	user4153	user4763	user3233	user4351	user4933	user263	user2807	user647			item9	5	0
+1970	user3349	user2645	user3192	user3862	user4102	user4793	user2534	user1426	user4175		item0	2	0
+1971	user3349	user2645	user3192	user3862	user4102	user4793	user2534	user1426	user4175		item1	3	0
+1972	user3349	user2645	user3192	user3862	user4102	user4793	user2534	user1426	user4175		item2	5	0
+1973	user3349	user2645	user3192	user3862	user4102	user4793	user2534	user1426	user4175		item3	1	1
+1974	user3349	user2645	user3192	user3862	user4102	user4793	user2534	user1426	user4175		item4	6	0
+1975	user3349	user2645	user3192	user3862	user4102	user4793	user2534	user1426	user4175		item5	7	0
+1976	user3349	user2645	user3192	user3862	user4102	user4793	user2534	user1426	user4175		item6	8	0
+1977	user3349	user2645	user3192	user3862	user4102	user4793	user2534	user1426	user4175		item7	9	0
+1978	user3349	user2645	user3192	user3862	user4102	user4793	user2534	user1426	user4175		item8	10	0
+1979	user3349	user2645	user3192	user3862	user4102	user4793	user2534	user1426	user4175		item9	4	0
+1980	user3517	user3463	user553	user3073	user4289	user1892					item0	4	0
+1981	user3517	user3463	user553	user3073	user4289	user1892					item1	2	0
+1982	user3517	user3463	user553	user3073	user4289	user1892					item2	5	0
+1983	user3517	user3463	user553	user3073	user4289	user1892					item3	3	0
+1984	user3517	user3463	user553	user3073	user4289	user1892					item4	6	0
+1985	user3517	user3463	user553	user3073	user4289	user1892					item5	7	0
+1986	user3517	user3463	user553	user3073	user4289	user1892					item6	1	1
+1987	user3517	user3463	user553	user3073	user4289	user1892					item7	8	0
+1988	user3517	user3463	user553	user3073	user4289	user1892					item8	9	0
+1989	user3517	user3463	user553	user3073	user4289	user1892					item9	10	0
+1990	user2635	user4288	user1306	user1457	user3470	user4818	user3935	user370	user3441	user3617	item0	2	0
+1991	user2635	user4288	user1306	user1457	user3470	user4818	user3935	user370	user3441	user3617	item1	5	0
+1992	user2635	user4288	user1306	user1457	user3470	user4818	user3935	user370	user3441	user3617	item2	6	0
+1993	user2635	user4288	user1306	user1457	user3470	user4818	user3935	user370	user3441	user3617	item3	1	1
+1994	user2635	user4288	user1306	user1457	user3470	user4818	user3935	user370	user3441	user3617	item4	3	0
+1995	user2635	user4288	user1306	user1457	user3470	user4818	user3935	user370	user3441	user3617	item5	7	0
+1996	user2635	user4288	user1306	user1457	user3470	user4818	user3935	user370	user3441	user3617	item6	4	0
+1997	user2635	user4288	user1306	user1457	user3470	user4818	user3935	user370	user3441	user3617	item7	8	0
+1998	user2635	user4288	user1306	user1457	user3470	user4818	user3935	user370	user3441	user3617	item8	9	0
+1999	user2635	user4288	user1306	user1457	user3470	user4818	user3935	user370	user3441	user3617	item9	10	0
